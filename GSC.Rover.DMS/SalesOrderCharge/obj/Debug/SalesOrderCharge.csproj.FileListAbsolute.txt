@@ -1,0 +1,9 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderCharge.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderCharge.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\obj\Debug\SalesOrderCharge.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\obj\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderCharge.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\obj\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderCharge.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderCharge\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll

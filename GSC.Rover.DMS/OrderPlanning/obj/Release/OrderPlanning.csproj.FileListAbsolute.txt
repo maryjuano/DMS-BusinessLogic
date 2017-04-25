@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\bin\Release\GSC.Rover.DMS.BusinessLogic.OrderPlanning.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\bin\Release\GSC.Rover.DMS.BusinessLogic.OrderPlanning.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\obj\Release\GSC.Rover.DMS.BusinessLogic.OrderPlanning.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\obj\Release\GSC.Rover.DMS.BusinessLogic.OrderPlanning.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanning\obj\Release\OrderPlanning.csprojResolveAssemblyReference.cache

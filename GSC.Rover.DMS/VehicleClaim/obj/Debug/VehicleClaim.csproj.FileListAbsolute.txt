@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleClaim.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleClaim.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\obj\Debug\GSC.Rover.DMS.BusinessLogic.VehicleClaim.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\obj\Debug\GSC.Rover.DMS.BusinessLogic.VehicleClaim.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\obj\Debug\VehicleClaim.csprojResolveAssemblyReference.cache

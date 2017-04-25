@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\bin\Release\GSC.Rover.DMS.BusinessLogic.AppliedPriceList.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\bin\Release\GSC.Rover.DMS.BusinessLogic.AppliedPriceList.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\obj\Release\AppliedPriceList.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\obj\Release\GSC.Rover.DMS.BusinessLogic.AppliedPriceList.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceList\obj\Release\GSC.Rover.DMS.BusinessLogic.AppliedPriceList.pdb

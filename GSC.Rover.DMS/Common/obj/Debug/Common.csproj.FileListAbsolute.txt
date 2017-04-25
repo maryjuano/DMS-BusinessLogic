@@ -1,0 +1,34 @@
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\AntiXssLibrary.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Client.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Common\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

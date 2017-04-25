@@ -1,0 +1,10 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\GSC.Rover.DMS.BusinessLogic.Contact.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\GSC.Rover.DMS.BusinessLogic.Contact.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\GSC.Rover.DMS.BusinessLogic.City.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\GSC.Rover.DMS.BusinessLogic.City.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\obj\Release\GSC.Rover.DMS.BusinessLogic.Contact.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\obj\Release\GSC.Rover.DMS.BusinessLogic.Contact.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Contact\obj\Release\Contact.csprojResolveAssemblyReference.cache

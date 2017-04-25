@@ -1,0 +1,17 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\obj\Release\ReceivingTransactionDetail.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.InventoryMovement.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceList.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.ReceivingTransaction.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.InventoryMovement.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceList.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.ReceivingTransaction.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\obj\Release\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\obj\Release\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.pdb

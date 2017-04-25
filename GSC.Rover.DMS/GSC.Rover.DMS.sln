@@ -1,0 +1,1751 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{4698E129-86D1-4AA8-BEE6-B42F391C60F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{B0308B28-2761-4C92-92BC-2F39B905CA0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUnitTests", "CommonUnitTests\CommonUnitTests.csproj", "{3BD84A40-56F9-45C4-A818-6D580BC5F67B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F76904A9-B420-46BC-9190-827134135CA3}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GSC.Rover.DMS.Platform", "..\GSC.Rover.DMS.Platform", "{007D4C6B-A746-4EA2-B615-7CF59960EB40}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		Frontpage = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/GSC.Rover.DMS.Platform"
+		Debug.AspNetCompiler.PhysicalPath = "..\GSC.Rover.DMS.Platform\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GSC.Rover.DMS.Platform\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GSC.Rover.DMS.Platform"
+		Release.AspNetCompiler.PhysicalPath = "..\GSC.Rover.DMS.Platform\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GSC.Rover.DMS.Platform\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "13348"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectInquiryUnitTests", "ProspectInquiryUnitTests\ProspectInquiryUnitTests.csproj", "{88D6E49C-DEC0-4A59-80EF-A8FCFCBB6DBD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2} = {6A4C5F73-7363-4AC8-B5C8-099CAA355DA2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectInquiry", "ProspectInquiry\ProspectInquiry.csproj", "{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C3978569-0121-4D77-9499-4DFD97DEB96D} = {C3978569-0121-4D77-9499-4DFD97DEB96D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opportunity", "Opportunity\Opportunity.csproj", "{889EB817-32C4-410B-BCDC-C5EAC214226C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpportunityUnitTests", "OpportunityUnitTests\OpportunityUnitTests.csproj", "{202EDCA7-071C-4BCD-8E82-68863FE92D42}"
+	ProjectSection(ProjectDependencies) = postProject
+		{889EB817-32C4-410B-BCDC-C5EAC214226C} = {889EB817-32C4-410B-BCDC-C5EAC214226C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quote", "Quote\Quote.csproj", "{AA4722C9-FDED-4119-8554-3A8C9A340DF1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5} = {100CEBFF-8C83-4977-A980-E6F80A0AFEB5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteUnitTests", "QuoteUnitTests\QuoteUnitTests.csproj", "{D467D592-2F90-4ED9-A40A-575E56D49540}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1} = {AA4722C9-FDED-4119-8554-3A8C9A340DF1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrder", "SalesOrder\SalesOrder.csproj", "{F65D68AB-7874-4673-B027-07D4C55BD00A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {7EF99A7F-B58A-4A49-AFF1-12BE81854730}
+		{F4A952D7-4881-43E0-B67E-5690A58E1348} = {F4A952D7-4881-43E0-B67E-5690A58E1348}
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5} = {100CEBFF-8C83-4977-A980-E6F80A0AFEB5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceListItem", "PriceListItem\PriceListItem.csproj", "{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceListItemUnitTests", "PriceListItemUnitTests\PriceListItemUnitTests.csproj", "{E6B2299B-E8FA-4A3D-9338-9775B314BE9F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC} = {DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppliedPriceList", "AppliedPriceList\AppliedPriceList.csproj", "{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppliedPriceListUnitTests", "AppliedPriceListUnitTests\AppliedPriceListUnitTests.csproj", "{03F0BFC3-5385-472C-B8DB-43BCFB2378D9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9} = {F34C1E35-B13C-4713-84E7-C2FF3C3E65C9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppliedCharges", "AppliedCharges\AppliedCharges.csproj", "{48E59270-0C39-4CD4-A193-D35FACCC0FD8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppliedChargesUnitTests", "AppliedChargesUnitTests\AppliedChargesUnitTests.csproj", "{C47E7B37-ADF3-4A12-B3A4-F16D77D3C3C6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{48E59270-0C39-4CD4-A193-D35FACCC0FD8} = {48E59270-0C39-4CD4-A193-D35FACCC0FD8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderUnitTests", "SalesOrderUnitTests\SalesOrderUnitTests.csproj", "{57B81B1B-267E-4109-987A-C615C1A6E002}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F65D68AB-7874-4673-B027-07D4C55BD00A} = {F65D68AB-7874-4673-B027-07D4C55BD00A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteMonthlyAmortization", "MonthlyAmortization\QuoteMonthlyAmortization.csproj", "{68C12662-233A-4808-A93F-B10472806B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentChecklist", "DocumentChecklist\DocumentChecklist.csproj", "{2CDF23A3-98BE-46E8-92A6-D60C80ADA76F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteDiscount", "QuoteDiscount\QuoteDiscount.csproj", "{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteCharge", "QuoteCharge\QuoteCharge.csproj", "{AFE8DEDA-7BBD-428B-85B6-D591347ADA29}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1} = {AA4722C9-FDED-4119-8554-3A8C9A340DF1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderDiscount", "SalesOrderDiscount\SalesOrderDiscount.csproj", "{EE973A1A-8E93-44B1-8887-B241B56C0E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderCharge", "SalesOrderCharge\SalesOrderCharge.csproj", "{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F65D68AB-7874-4673-B027-07D4C55BD00A} = {F65D68AB-7874-4673-B027-07D4C55BD00A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteDiscountUnitTests", "QuoteDiscountUnitTests\QuoteDiscountUnitTests.csproj", "{C4EFBE26-6DE6-4723-957D-EE97E3FB1A06}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D} = {FBEE6DC6-6742-4B18-9BCD-542C2949FE3D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteChargeUnitTests", "QuoteChargeUnitTests\QuoteChargeUnitTests.csproj", "{1434C8B8-E646-4528-A64E-24B6E0F0B99F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AFE8DEDA-7BBD-428B-85B6-D591347ADA29} = {AFE8DEDA-7BBD-428B-85B6-D591347ADA29}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderDiscountUnitTests", "SalesOrderDiscountUnitTests\SalesOrderDiscountUnitTests.csproj", "{71346A82-5EB3-4185-8BB0-145D19B30B31}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EE973A1A-8E93-44B1-8887-B241B56C0E75} = {EE973A1A-8E93-44B1-8887-B241B56C0E75}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderChargeUnitTests", "SalesOrderChargeUnitTests\SalesOrderChargeUnitTests.csproj", "{DA60477D-9A2F-4BA1-8E2B-599ABA53FD7F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9} = {E69348CD-1B8A-4B76-95DE-1B8AFAC187F9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderMonthlyAmortization", "SalesOrderMonthlyAmortization\SalesOrderMonthlyAmortization.csproj", "{136AB3F6-CA41-4BAE-8F83-8856B9D2A973}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prospect", "Prospect\Prospect.csproj", "{4232FF6B-E60F-40DB-AF70-DC3A337899C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseOrderUnitTests", "PurchaseOrderUnitTests\PurchaseOrderUnitTests.csproj", "{0A6A3ED3-A65E-40B0-A79B-69BC165B0CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectUnitTests", "ProspectUnitTests\ProspectUnitTests.csproj", "{41CD8655-B3A9-4EDD-AC28-2C98295AE2B6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4232FF6B-E60F-40DB-AF70-DC3A337899C8} = {4232FF6B-E60F-40DB-AF70-DC3A337899C8}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteProduct", "QuoteProduct\QuoteProduct.csproj", "{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteProductUnitTest", "QuoteProductUnitTest\QuoteProductUnitTest.csproj", "{5D5071BF-DAE1-44E8-8808-54F3FCC1B115}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51} = {2CF2FE0C-4682-4968-8B0A-51DA2E40BF51}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequirementChecklistUnitTests", "RequirementChecklistHandlerUnitTests\RequirementChecklistUnitTests.csproj", "{501B8013-8C80-4F19-86DF-380CF041F8E0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F65D68AB-7874-4673-B027-07D4C55BD00A} = {F65D68AB-7874-4673-B027-07D4C55BD00A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice", "Invoice\Invoice.csproj", "{270369B4-61C1-4554-9969-70DD9C6FADCA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceUnitTests", "InvoiceUnitTests\InvoiceUnitTests.csproj", "{1A941860-DD4C-46B5-9938-336D819DFDE2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{270369B4-61C1-4554-9969-70DD9C6FADCA} = {270369B4-61C1-4554-9969-70DD9C6FADCA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocatedVehicle", "AllocatedVehicle\AllocatedVehicle.csproj", "{9C626692-A6B2-4B03-BE0E-00FE27652468}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {7EF99A7F-B58A-4A49-AFF1-12BE81854730}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocatedVehicleUnitTests", "AllocatedVehicleUnitTests\AllocatedVehicleUnitTests.csproj", "{7726AE75-A544-455D-A331-24684B95840E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9C626692-A6B2-4B03-BE0E-00FE27652468} = {9C626692-A6B2-4B03-BE0E-00FE27652468}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleClaim", "VehicleClaim\VehicleClaim.csproj", "{6D812AA7-3C2B-4393-A6FF-0D334B5CDD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSalesReturn", "VehicleSalesReturn\VehicleSalesReturn.csproj", "{AE84D7AD-E048-4A07-9516-140D0D3C6B6E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {7EF99A7F-B58A-4A49-AFF1-12BE81854730}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSalesReturnUnitTests", "VehicleSalesReturnUnitTests\VehicleSalesReturnUnitTests.csproj", "{EF79295B-1D37-4BDD-8ADD-93999D44B531}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AE84D7AD-E048-4A07-9516-140D0D3C6B6E} = {AE84D7AD-E048-4A07-9516-140D0D3C6B6E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPlanning", "OrderPlanning\OrderPlanning.csproj", "{04DC78C2-1347-447E-8814-AAF5AD49A7C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPlanningUnitTests", "OrderPlanningUnitTests\OrderPlanningUnitTests.csproj", "{60B51A7A-CE90-4AD7-8D3E-FF6C758EEE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesReturnDetail", "SalesReturnDetail\SalesReturnDetail.csproj", "{25845EC4-9BF5-4FEC-9EDC-B8EE7C26D930}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclePostDeliveryMonitoring", "VehiclePostDeliveryMonitoring\VehiclePostDeliveryMonitoring.csproj", "{A99D3654-04AB-4484-B4E1-75FBA7EB6050}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPlanningDetailUnitTests", "OrderPlanningDetailUnitTests\OrderPlanningDetailUnitTests.csproj", "{75CA7FA0-5A20-45C2-BF8C-A74BC9D0652E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1935740C-3128-40CD-8150-F2D34896250E} = {1935740C-3128-40CD-8150-F2D34896250E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPlanningDetail", "OrderPlanningDetail\OrderPlanningDetail.csproj", "{1935740C-3128-40CD-8150-F2D34896250E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommittedFirmOrder", "CommittedFirmOrder\CommittedFirmOrder.csproj", "{848E2E9B-4CFE-42E0-AD62-147D83E15D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommittedFirmOrderUnitTests", "CommittedFirmOrderUnitTests\CommittedFirmOrderUnitTests.csproj", "{11B101F5-55E4-4287-AB0D-F07DAF3716A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesDocument", "Sales Document\SalesDocument.csproj", "{BA0A0D58-B133-4DEA-AB27-FA54772C48B7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedPriceListItem", "ExtendedPriceListItem\ExtendedPriceListItem.csproj", "{ECF1C793-A176-4C4F-95E6-644292C44F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommittedFirmOrderQuantityDetail", "CommittedFirmOrderDetail\CommittedFirmOrderQuantityDetail.csproj", "{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product", "Product\Product.csproj", "{F9AE2A2F-A816-4E65-8EAA-880E35D3138F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommittedFirmOrderQuantity", "CommittedFirmOrderQuantity\CommittedFirmOrderQuantity.csproj", "{7A9221FA-1228-488B-9922-B71FB4A02464}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E} = {5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclePurchaseOrder", "VehiclePurchaseOrder\VehiclePurchaseOrder.csproj", "{AC7C4F17-8F6E-4A6D-AF0B-652E4903720F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivingTransactionDetail", "ReceivingTransactionDetail\ReceivingTransactionDetail.csproj", "{B7DF1A2D-DA79-4046-BDC2-FE91D5AB34AF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{16663647-A436-4542-951D-2EA7128C0DBD} = {16663647-A436-4542-951D-2EA7128C0DBD}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivingTransaction", "ReceivingTransaction\ReceivingTransaction.csproj", "{16663647-A436-4542-951D-2EA7128C0DBD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivingTransactionUnitTests", "ReceivingTransactionUnitTests\ReceivingTransactionUnitTests.csproj", "{F47E46DC-1A76-410B-B200-7027FCDC9AEC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{16663647-A436-4542-951D-2EA7128C0DBD} = {16663647-A436-4542-951D-2EA7128C0DBD}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclePurchaseOrderDetails", "VehiclePurchaseOrderDetails\VehiclePurchaseOrderDetails.csproj", "{27DE0134-C065-40D8-A862-7B1984AF6B6E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnTransactionDetail", "ReturnTransactionDetail\ReturnTransactionDetail.csproj", "{47B85291-FEFC-4F22-B0BB-47EAF8D7FF12}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnTransaction", "ReturnTransaction\ReturnTransaction.csproj", "{69D5782E-F388-42B9-92B7-8B5098D3ABFF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {7EF99A7F-B58A-4A49-AFF1-12BE81854730}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleTransfer", "VehicleTransfer\VehicleTransfer.csproj", "{9B8F45D6-515D-449B-939A-E4460E900A84}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {7EF99A7F-B58A-4A49-AFF1-12BE81854730}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingClaim", "ShippingClaim\ShippingClaim.csproj", "{0C166134-33EF-444E-88B3-1497D864AE0B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDRequest", "IDRequest\IDRequest.csproj", "{3C9F14B8-CF16-4799-B5C9-109ECC2C08D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleInTransitTransfer", "Vehicle In-Transit Transfer\VehicleInTransitTransfer.csproj", "{A44E401A-1363-4056-A3E1-B8BAEDFCCAA8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCountSchedule", "VehicleCountSchedule\VehicleCountSchedule.csproj", "{9A4C84C9-7C4A-46BC-9F96-BBF5440EE0DA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleAdjustmentVarianceEntry", "VehicleAdjustmentVarianceEntry\VehicleAdjustmentVarianceEntry.csproj", "{F2E7428A-C00D-451A-995E-04A5DD9B5BAB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {7EF99A7F-B58A-4A49-AFF1-12BE81854730}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleAdjustmentVarianceEntryDetail", "VehicleAdjustmentVarianceEntryDetail\VehicleAdjustmentVarianceEntryDetail.csproj", "{943490B0-D365-44B5-B011-A5F9B428BFDF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCountScheduleUnitTest", "VehicleCountScheduleUnitTest\VehicleCountScheduleUnitTest.csproj", "{092F6814-E88A-424A-A6A5-AEABC6A5B176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSequence", "IDSequence\IDSequence.csproj", "{431E0673-DF00-4253-ADB5-2C8D6431F4FE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleIn-TransitTransferReceiving", "VehicleIn-TransitTransferReceiving\VehicleIn-TransitTransferReceiving.csproj", "{90366D5C-3BB5-4A4E-9C30-CCC60772E4E4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCountEntryDetail", "VehicleCountEntryDetail\VehicleCountEntryDetail.csproj", "{2BD6B088-C764-4472-8EC0-A85EA26C6E28}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCountEntryDetailUnitTests", "VehicleCountEntryDetailUnitTests\VehicleCountEntryDetailUnitTests.csproj", "{C139696D-47AB-4709-945E-CAA296A3C72A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2BD6B088-C764-4472-8EC0-A85EA26C6E28} = {2BD6B088-C764-4472-8EC0-A85EA26C6E28}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCountEntry", "VehicleCountEntry\VehicleCountEntry.csproj", "{58FB4F0A-C986-4F06-845D-60B10BBEB56D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCountEntryUnitTests", "VehicleCountEntryUnitTests\VehicleCountEntryUnitTests.csproj", "{00DAE5A2-3439-4D36-8074-0B4DDA8769DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleAccessory", "VehicleAccessory\VehicleAccessory.csproj", "{4A8CFA81-97A6-4321-BDD5-DF562FB55F6E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCabChassis", "VehicleCabChassis\VehicleCabChassis.csproj", "{6449D13A-B241-437D-928D-0AF23BC90466}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteCabChassis", "QuoteCabChassis\QuoteCabChassis.csproj", "{06D07633-9398-4E8F-A855-23BA7C5E5121}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1} = {AA4722C9-FDED-4119-8554-3A8C9A340DF1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteAccessory", "QuoteAccessory\QuoteAccessory.csproj", "{8E980C44-6008-45F5-9E63-D71AE3C99821}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1} = {AA4722C9-FDED-4119-8554-3A8C9A340DF1}
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5} = {100CEBFF-8C83-4977-A980-E6F80A0AFEB5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{475368EC-C6FC-480C-AC77-2A7923283FDB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C3978569-0121-4D77-9499-4DFD97DEB96D} = {C3978569-0121-4D77-9499-4DFD97DEB96D}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashReceipt", "CashReceipt\CashReceipt.csproj", "{1376B18A-2F98-44AD-A72C-86FF6301A469}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BA0A0D58-B133-4DEA-AB27-FA54772C48B7} = {BA0A0D58-B133-4DEA-AB27-FA54772C48B7}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostDeliveryAdminSetup", "PostDeliveryAdminSetup\PostDeliveryAdminSetup.csproj", "{C80EDEE2-C778-4061-8E20-B014B94C7AED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact", "Contact\Contact.csproj", "{8ACC09C0-7DD7-4321-A452-10AB757EC05F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C3978569-0121-4D77-9499-4DFD97DEB96D} = {C3978569-0121-4D77-9499-4DFD97DEB96D}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequirementChecklist", "RequirementChecklist\RequirementChecklist.csproj", "{F4A952D7-4881-43E0-B67E-5690A58E1348}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvitationUnitTests", "InviteUnitTests\InvitationUnitTests.csproj", "{BFAA71FE-A31F-40D9-831F-E2A90F4165E7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{81740175-2B2A-4367-9843-BE480D81C390} = {81740175-2B2A-4367-9843-BE480D81C390}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceCoverage", "Insurance\InsuranceCoverage.csproj", "{9CB7F967-4D77-4B8D-AA5B-EBBA34B9CA16}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargesItem", "ChargesItem\ChargesItem.csproj", "{E078F9BF-A420-4667-8ECE-FE3ED503613C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactedVehicle", "TransactedVehicle\TransactedVehicle.csproj", "{ABD163CB-C6F0-4B61-8E80-98D06E651F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryMovement", "InventoryMovementHandler\InventoryMovement.csproj", "{7EF99A7F-B58A-4A49-AFF1-12BE81854730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceList", "PriceList\PriceList.csproj", "{100CEBFF-8C83-4977-A980-E6F80A0AFEB5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GVDReport", "GVDReport\GVDReport.csproj", "{4E0BB6F0-E1B8-455D-ABF0-D81989366C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invitation", "Invitation\Invitation.csproj", "{81740175-2B2A-4367-9843-BE480D81C390}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxMaintenance", "TaxMaintenance\TaxMaintenance.csproj", "{40C832B4-2A26-436F-8ECA-5B9587EDC790}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApproverSetup", "ApproverSetup\ApproverSetup.csproj", "{25219DF9-A32D-468C-B0A2-48F4AAB93B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleColor", "VehicleColor\VehicleColor.csproj", "{D04AF583-C61D-4D77-A3D6-F73003FB8D47}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderAccessory", "SalesOrderAccessory\SalesOrderAccessory.csproj", "{E8E97A82-7755-4E40-9761-70FD5C62E3DB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F65D68AB-7874-4673-B027-07D4C55BD00A} = {F65D68AB-7874-4673-B027-07D4C55BD00A}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "City", "City\City.csproj", "{C3978569-0121-4D77-9499-4DFD97DEB96D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesOrderCabChassis", "SalesOrderCabChassis\SalesOrderCabChassis.csproj", "{76534419-44DD-4F1D-9059-657A18A22BEA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F65D68AB-7874-4673-B027-07D4C55BD00A} = {F65D68AB-7874-4673-B027-07D4C55BD00A}
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 99
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://raven:8080/tfs/rndcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Common\\Common.csproj
+		SccProjectTopLevelParentUniqueName1 = GSC.Rover.DMS.sln
+		SccProjectName1 = Common
+		SccLocalPath1 = Common
+		SccProjectUniqueName2 = CommonUnitTests\\CommonUnitTests.csproj
+		SccProjectTopLevelParentUniqueName2 = GSC.Rover.DMS.sln
+		SccProjectName2 = CommonUnitTests
+		SccLocalPath2 = CommonUnitTests
+		SccProjectUniqueName3 = ProspectInquiryUnitTests\\ProspectInquiryUnitTests.csproj
+		SccProjectTopLevelParentUniqueName3 = GSC.Rover.DMS.sln
+		SccProjectName3 = ProspectInquiryUnitTests
+		SccLocalPath3 = ProspectInquiryUnitTests
+		SccProjectUniqueName4 = ProspectInquiry\\ProspectInquiry.csproj
+		SccProjectTopLevelParentUniqueName4 = GSC.Rover.DMS.sln
+		SccProjectName4 = ProspectInquiry
+		SccLocalPath4 = ProspectInquiry
+		SccProjectUniqueName5 = Opportunity\\Opportunity.csproj
+		SccProjectTopLevelParentUniqueName5 = GSC.Rover.DMS.sln
+		SccProjectName5 = Opportunity
+		SccLocalPath5 = Opportunity
+		SccProjectUniqueName6 = OpportunityUnitTests\\OpportunityUnitTests.csproj
+		SccProjectTopLevelParentUniqueName6 = GSC.Rover.DMS.sln
+		SccProjectName6 = OpportunityUnitTests
+		SccLocalPath6 = OpportunityUnitTests
+		SccProjectUniqueName7 = Quote\\Quote.csproj
+		SccProjectTopLevelParentUniqueName7 = GSC.Rover.DMS.sln
+		SccProjectName7 = Quote
+		SccLocalPath7 = Quote
+		SccProjectUniqueName8 = QuoteUnitTests\\QuoteUnitTests.csproj
+		SccProjectTopLevelParentUniqueName8 = GSC.Rover.DMS.sln
+		SccProjectName8 = QuoteUnitTests
+		SccLocalPath8 = QuoteUnitTests
+		SccProjectUniqueName9 = SalesOrder\\SalesOrder.csproj
+		SccProjectTopLevelParentUniqueName9 = GSC.Rover.DMS.sln
+		SccProjectName9 = SalesOrder
+		SccLocalPath9 = SalesOrder
+		SccProjectUniqueName10 = PriceListItem\\PriceListItem.csproj
+		SccProjectTopLevelParentUniqueName10 = GSC.Rover.DMS.sln
+		SccProjectName10 = PriceListItem
+		SccLocalPath10 = PriceListItem
+		SccProjectUniqueName11 = PriceListItemUnitTests\\PriceListItemUnitTests.csproj
+		SccProjectTopLevelParentUniqueName11 = GSC.Rover.DMS.sln
+		SccProjectName11 = PriceListItemUnitTests
+		SccLocalPath11 = PriceListItemUnitTests
+		SccProjectUniqueName12 = AppliedPriceList\\AppliedPriceList.csproj
+		SccProjectTopLevelParentUniqueName12 = GSC.Rover.DMS.sln
+		SccProjectName12 = AppliedPriceList
+		SccLocalPath12 = AppliedPriceList
+		SccProjectUniqueName13 = AppliedPriceListUnitTests\\AppliedPriceListUnitTests.csproj
+		SccProjectTopLevelParentUniqueName13 = GSC.Rover.DMS.sln
+		SccProjectName13 = AppliedPriceListUnitTests
+		SccLocalPath13 = AppliedPriceListUnitTests
+		SccProjectUniqueName14 = AppliedCharges\\AppliedCharges.csproj
+		SccProjectTopLevelParentUniqueName14 = GSC.Rover.DMS.sln
+		SccProjectName14 = AppliedCharges
+		SccLocalPath14 = AppliedCharges
+		SccProjectUniqueName15 = AppliedChargesUnitTests\\AppliedChargesUnitTests.csproj
+		SccProjectTopLevelParentUniqueName15 = GSC.Rover.DMS.sln
+		SccProjectName15 = AppliedChargesUnitTests
+		SccLocalPath15 = AppliedChargesUnitTests
+		SccProjectUniqueName16 = SalesOrderUnitTests\\SalesOrderUnitTests.csproj
+		SccProjectTopLevelParentUniqueName16 = GSC.Rover.DMS.sln
+		SccProjectName16 = SalesOrderUnitTests
+		SccLocalPath16 = SalesOrderUnitTests
+		SccProjectUniqueName17 = DocumentChecklist\\DocumentChecklist.csproj
+		SccProjectTopLevelParentUniqueName17 = GSC.Rover.DMS.sln
+		SccProjectName17 = DocumentChecklist
+		SccLocalPath17 = DocumentChecklist
+		SccProjectUniqueName18 = QuoteDiscount\\QuoteDiscount.csproj
+		SccProjectTopLevelParentUniqueName18 = GSC.Rover.DMS.sln
+		SccProjectName18 = QuoteDiscount
+		SccLocalPath18 = QuoteDiscount
+		SccProjectUniqueName19 = QuoteCharge\\QuoteCharge.csproj
+		SccProjectTopLevelParentUniqueName19 = GSC.Rover.DMS.sln
+		SccProjectName19 = QuoteCharge
+		SccLocalPath19 = QuoteCharge
+		SccProjectUniqueName20 = SalesOrderDiscount\\SalesOrderDiscount.csproj
+		SccProjectTopLevelParentUniqueName20 = GSC.Rover.DMS.sln
+		SccProjectName20 = SalesOrderDiscount
+		SccLocalPath20 = SalesOrderDiscount
+		SccProjectUniqueName21 = SalesOrderCharge\\SalesOrderCharge.csproj
+		SccProjectTopLevelParentUniqueName21 = GSC.Rover.DMS.sln
+		SccProjectName21 = SalesOrderCharge
+		SccLocalPath21 = SalesOrderCharge
+		SccProjectUniqueName22 = QuoteDiscountUnitTests\\QuoteDiscountUnitTests.csproj
+		SccProjectTopLevelParentUniqueName22 = GSC.Rover.DMS.sln
+		SccProjectName22 = QuoteDiscountUnitTests
+		SccLocalPath22 = QuoteDiscountUnitTests
+		SccProjectUniqueName23 = QuoteChargeUnitTests\\QuoteChargeUnitTests.csproj
+		SccProjectTopLevelParentUniqueName23 = GSC.Rover.DMS.sln
+		SccProjectName23 = QuoteChargeUnitTests
+		SccLocalPath23 = QuoteChargeUnitTests
+		SccProjectUniqueName24 = SalesOrderDiscountUnitTests\\SalesOrderDiscountUnitTests.csproj
+		SccProjectTopLevelParentUniqueName24 = GSC.Rover.DMS.sln
+		SccProjectName24 = SalesOrderDiscountUnitTests
+		SccLocalPath24 = SalesOrderDiscountUnitTests
+		SccProjectUniqueName25 = SalesOrderChargeUnitTests\\SalesOrderChargeUnitTests.csproj
+		SccProjectTopLevelParentUniqueName25 = GSC.Rover.DMS.sln
+		SccProjectName25 = SalesOrderChargeUnitTests
+		SccLocalPath25 = SalesOrderChargeUnitTests
+		SccProjectUniqueName26 = MonthlyAmortization\\QuoteMonthlyAmortization.csproj
+		SccProjectTopLevelParentUniqueName26 = GSC.Rover.DMS.sln
+		SccProjectName26 = MonthlyAmortization
+		SccLocalPath26 = MonthlyAmortization
+		SccProjectUniqueName27 = SalesOrderMonthlyAmortization\\SalesOrderMonthlyAmortization.csproj
+		SccProjectTopLevelParentUniqueName27 = GSC.Rover.DMS.sln
+		SccProjectName27 = SalesOrderMonthlyAmortization
+		SccLocalPath27 = SalesOrderMonthlyAmortization
+		SccProjectUniqueName28 = Prospect\\Prospect.csproj
+		SccProjectTopLevelParentUniqueName28 = GSC.Rover.DMS.sln
+		SccProjectName28 = Prospect
+		SccLocalPath28 = Prospect
+		SccProjectUniqueName29 = PurchaseOrderUnitTests\\PurchaseOrderUnitTests.csproj
+		SccProjectTopLevelParentUniqueName29 = GSC.Rover.DMS.sln
+		SccProjectName29 = PurchaseOrderUnitTests
+		SccLocalPath29 = PurchaseOrderUnitTests
+		SccProjectUniqueName30 = ProspectUnitTests\\ProspectUnitTests.csproj
+		SccProjectTopLevelParentUniqueName30 = GSC.Rover.DMS.sln
+		SccProjectName30 = ProspectUnitTests
+		SccLocalPath30 = ProspectUnitTests
+		SccProjectUniqueName31 = QuoteProduct\\QuoteProduct.csproj
+		SccProjectTopLevelParentUniqueName31 = GSC.Rover.DMS.sln
+		SccProjectName31 = QuoteProduct
+		SccLocalPath31 = QuoteProduct
+		SccProjectUniqueName32 = QuoteProductUnitTest\\QuoteProductUnitTest.csproj
+		SccProjectTopLevelParentUniqueName32 = GSC.Rover.DMS.sln
+		SccProjectName32 = QuoteProductUnitTest
+		SccLocalPath32 = QuoteProductUnitTest
+		SccProjectUniqueName33 = RequirementChecklistHandlerUnitTests\\RequirementChecklistUnitTests.csproj
+		SccProjectTopLevelParentUniqueName33 = GSC.Rover.DMS.sln
+		SccProjectName33 = RequirementChecklistHandlerUnitTests
+		SccLocalPath33 = RequirementChecklistHandlerUnitTests
+		SccProjectUniqueName34 = Invoice\\Invoice.csproj
+		SccProjectTopLevelParentUniqueName34 = GSC.Rover.DMS.sln
+		SccProjectName34 = Invoice
+		SccLocalPath34 = Invoice
+		SccProjectUniqueName35 = InvoiceUnitTests\\InvoiceUnitTests.csproj
+		SccProjectTopLevelParentUniqueName35 = GSC.Rover.DMS.sln
+		SccProjectName35 = InvoiceUnitTests
+		SccLocalPath35 = InvoiceUnitTests
+		SccProjectUniqueName36 = AllocatedVehicle\\AllocatedVehicle.csproj
+		SccProjectTopLevelParentUniqueName36 = GSC.Rover.DMS.sln
+		SccProjectName36 = AllocatedVehicle
+		SccLocalPath36 = AllocatedVehicle
+		SccProjectUniqueName37 = AllocatedVehicleUnitTests\\AllocatedVehicleUnitTests.csproj
+		SccProjectTopLevelParentUniqueName37 = GSC.Rover.DMS.sln
+		SccProjectName37 = AllocatedVehicleUnitTests
+		SccLocalPath37 = AllocatedVehicleUnitTests
+		SccProjectUniqueName38 = VehicleClaim\\VehicleClaim.csproj
+		SccProjectTopLevelParentUniqueName38 = GSC.Rover.DMS.sln
+		SccProjectName38 = VehicleClaim
+		SccLocalPath38 = VehicleClaim
+		SccProjectUniqueName39 = VehicleSalesReturn\\VehicleSalesReturn.csproj
+		SccProjectTopLevelParentUniqueName39 = GSC.Rover.DMS.sln
+		SccProjectName39 = VehicleSalesReturn
+		SccLocalPath39 = VehicleSalesReturn
+		SccProjectUniqueName40 = VehicleSalesReturnUnitTests\\VehicleSalesReturnUnitTests.csproj
+		SccProjectTopLevelParentUniqueName40 = GSC.Rover.DMS.sln
+		SccProjectName40 = VehicleSalesReturnUnitTests
+		SccLocalPath40 = VehicleSalesReturnUnitTests
+		SccProjectUniqueName41 = OrderPlanning\\OrderPlanning.csproj
+		SccProjectTopLevelParentUniqueName41 = GSC.Rover.DMS.sln
+		SccProjectName41 = OrderPlanning
+		SccLocalPath41 = OrderPlanning
+		SccProjectUniqueName42 = OrderPlanningUnitTests\\OrderPlanningUnitTests.csproj
+		SccProjectTopLevelParentUniqueName42 = GSC.Rover.DMS.sln
+		SccProjectName42 = OrderPlanningUnitTests
+		SccLocalPath42 = OrderPlanningUnitTests
+		SccProjectUniqueName43 = SalesReturnDetail\\SalesReturnDetail.csproj
+		SccProjectTopLevelParentUniqueName43 = GSC.Rover.DMS.sln
+		SccProjectName43 = SalesReturnDetail
+		SccLocalPath43 = SalesReturnDetail
+		SccProjectUniqueName44 = VehiclePostDeliveryMonitoring\\VehiclePostDeliveryMonitoring.csproj
+		SccProjectTopLevelParentUniqueName44 = GSC.Rover.DMS.sln
+		SccProjectName44 = VehiclePostDeliveryMonitoring
+		SccLocalPath44 = VehiclePostDeliveryMonitoring
+		SccProjectUniqueName45 = OrderPlanningDetailUnitTests\\OrderPlanningDetailUnitTests.csproj
+		SccProjectTopLevelParentUniqueName45 = GSC.Rover.DMS.sln
+		SccProjectName45 = OrderPlanningDetailUnitTests
+		SccLocalPath45 = OrderPlanningDetailUnitTests
+		SccProjectUniqueName46 = OrderPlanningDetail\\OrderPlanningDetail.csproj
+		SccProjectTopLevelParentUniqueName46 = GSC.Rover.DMS.sln
+		SccProjectName46 = OrderPlanningDetail
+		SccLocalPath46 = OrderPlanningDetail
+		SccProjectUniqueName47 = CommittedFirmOrder\\CommittedFirmOrder.csproj
+		SccProjectTopLevelParentUniqueName47 = GSC.Rover.DMS.sln
+		SccProjectName47 = CommittedFirmOrder
+		SccLocalPath47 = CommittedFirmOrder
+		SccProjectUniqueName48 = CommittedFirmOrderUnitTests\\CommittedFirmOrderUnitTests.csproj
+		SccProjectTopLevelParentUniqueName48 = GSC.Rover.DMS.sln
+		SccProjectName48 = CommittedFirmOrderUnitTests
+		SccLocalPath48 = CommittedFirmOrderUnitTests
+		SccProjectUniqueName49 = Sales\u0020Document\\SalesDocument.csproj
+		SccProjectTopLevelParentUniqueName49 = GSC.Rover.DMS.sln
+		SccProjectName49 = Sales\u0020Document
+		SccLocalPath49 = Sales\u0020Document
+		SccWebProject50 = true
+		SccProjectUniqueName50 = ..\\GSC.Rover.DMS.Platform
+		SccProjectName50 = ../GSC.Rover.DMS.Platform
+		SccLocalPath50 = ..\\GSC.Rover.DMS.Platform
+		SccProjectEnlistmentChoice50 = 2
+		SccProjectUniqueName51 = ExtendedPriceListItem\\ExtendedPriceListItem.csproj
+		SccProjectTopLevelParentUniqueName51 = GSC.Rover.DMS.sln
+		SccProjectName51 = ExtendedPriceListItem
+		SccLocalPath51 = ExtendedPriceListItem
+		SccProjectUniqueName52 = CommittedFirmOrderDetail\\CommittedFirmOrderQuantityDetail.csproj
+		SccProjectTopLevelParentUniqueName52 = GSC.Rover.DMS.sln
+		SccProjectName52 = CommittedFirmOrderDetail
+		SccLocalPath52 = CommittedFirmOrderDetail
+		SccProjectUniqueName53 = Product\\Product.csproj
+		SccProjectTopLevelParentUniqueName53 = GSC.Rover.DMS.sln
+		SccProjectName53 = Product
+		SccLocalPath53 = Product
+		SccProjectUniqueName54 = CommittedFirmOrderQuantity\\CommittedFirmOrderQuantity.csproj
+		SccProjectTopLevelParentUniqueName54 = GSC.Rover.DMS.sln
+		SccProjectName54 = CommittedFirmOrderQuantity
+		SccLocalPath54 = CommittedFirmOrderQuantity
+		SccProjectUniqueName55 = VehiclePurchaseOrder\\VehiclePurchaseOrder.csproj
+		SccProjectTopLevelParentUniqueName55 = GSC.Rover.DMS.sln
+		SccProjectName55 = VehiclePurchaseOrder
+		SccLocalPath55 = VehiclePurchaseOrder
+		SccProjectUniqueName56 = ReceivingTransactionDetail\\ReceivingTransactionDetail.csproj
+		SccProjectTopLevelParentUniqueName56 = GSC.Rover.DMS.sln
+		SccProjectName56 = ReceivingTransactionDetail
+		SccLocalPath56 = ReceivingTransactionDetail
+		SccProjectUniqueName57 = ReceivingTransaction\\ReceivingTransaction.csproj
+		SccProjectTopLevelParentUniqueName57 = GSC.Rover.DMS.sln
+		SccProjectName57 = ReceivingTransaction
+		SccLocalPath57 = ReceivingTransaction
+		SccProjectUniqueName58 = ReceivingTransactionUnitTests\\ReceivingTransactionUnitTests.csproj
+		SccProjectTopLevelParentUniqueName58 = GSC.Rover.DMS.sln
+		SccProjectName58 = ReceivingTransactionUnitTests
+		SccLocalPath58 = ReceivingTransactionUnitTests
+		SccProjectUniqueName59 = VehiclePurchaseOrderDetails\\VehiclePurchaseOrderDetails.csproj
+		SccProjectTopLevelParentUniqueName59 = GSC.Rover.DMS.sln
+		SccProjectName59 = VehiclePurchaseOrderDetails
+		SccLocalPath59 = VehiclePurchaseOrderDetails
+		SccProjectUniqueName60 = ReturnTransactionDetail\\ReturnTransactionDetail.csproj
+		SccProjectTopLevelParentUniqueName60 = GSC.Rover.DMS.sln
+		SccProjectName60 = ReturnTransactionDetail
+		SccLocalPath60 = ReturnTransactionDetail
+		SccProjectUniqueName61 = ReturnTransaction\\ReturnTransaction.csproj
+		SccProjectTopLevelParentUniqueName61 = GSC.Rover.DMS.sln
+		SccProjectName61 = ReturnTransaction
+		SccLocalPath61 = ReturnTransaction
+		SccProjectUniqueName62 = ShippingClaim\\ShippingClaim.csproj
+		SccProjectTopLevelParentUniqueName62 = GSC.Rover.DMS.sln
+		SccProjectName62 = ShippingClaim
+		SccLocalPath62 = ShippingClaim
+		SccProjectUniqueName63 = VehicleTransfer\\VehicleTransfer.csproj
+		SccProjectTopLevelParentUniqueName63 = GSC.Rover.DMS.sln
+		SccProjectName63 = VehicleTransfer
+		SccLocalPath63 = VehicleTransfer
+		SccProjectUniqueName64 = IDRequest\\IDRequest.csproj
+		SccProjectTopLevelParentUniqueName64 = GSC.Rover.DMS.sln
+		SccProjectName64 = IDRequest
+		SccLocalPath64 = IDRequest
+		SccProjectUniqueName65 = Vehicle\u0020In-Transit\u0020Transfer\\VehicleInTransitTransfer.csproj
+		SccProjectTopLevelParentUniqueName65 = GSC.Rover.DMS.sln
+		SccProjectName65 = Vehicle\u0020In-Transit\u0020Transfer
+		SccLocalPath65 = Vehicle\u0020In-Transit\u0020Transfer
+		SccProjectUniqueName66 = VehicleCountSchedule\\VehicleCountSchedule.csproj
+		SccProjectTopLevelParentUniqueName66 = GSC.Rover.DMS.sln
+		SccProjectName66 = VehicleCountSchedule
+		SccLocalPath66 = VehicleCountSchedule
+		SccProjectUniqueName67 = VehicleAdjustmentVarianceEntry\\VehicleAdjustmentVarianceEntry.csproj
+		SccProjectTopLevelParentUniqueName67 = GSC.Rover.DMS.sln
+		SccProjectName67 = VehicleAdjustmentVarianceEntry
+		SccLocalPath67 = VehicleAdjustmentVarianceEntry
+		SccProjectUniqueName68 = VehicleAdjustmentVarianceEntryDetail\\VehicleAdjustmentVarianceEntryDetail.csproj
+		SccProjectTopLevelParentUniqueName68 = GSC.Rover.DMS.sln
+		SccProjectName68 = VehicleAdjustmentVarianceEntryDetail
+		SccLocalPath68 = VehicleAdjustmentVarianceEntryDetail
+		SccProjectUniqueName69 = IDSequence\\IDSequence.csproj
+		SccProjectTopLevelParentUniqueName69 = GSC.Rover.DMS.sln
+		SccProjectName69 = IDSequence
+		SccLocalPath69 = IDSequence
+		SccProjectUniqueName70 = VehicleCountScheduleUnitTest\\VehicleCountScheduleUnitTest.csproj
+		SccProjectTopLevelParentUniqueName70 = GSC.Rover.DMS.sln
+		SccProjectName70 = VehicleCountScheduleUnitTest
+		SccLocalPath70 = VehicleCountScheduleUnitTest
+		SccProjectUniqueName71 = VehicleIn-TransitTransferReceiving\\VehicleIn-TransitTransferReceiving.csproj
+		SccProjectTopLevelParentUniqueName71 = GSC.Rover.DMS.sln
+		SccProjectName71 = VehicleIn-TransitTransferReceiving
+		SccLocalPath71 = VehicleIn-TransitTransferReceiving
+		SccProjectUniqueName72 = VehicleCountEntryDetail\\VehicleCountEntryDetail.csproj
+		SccProjectTopLevelParentUniqueName72 = GSC.Rover.DMS.sln
+		SccProjectName72 = VehicleCountEntryDetail
+		SccLocalPath72 = VehicleCountEntryDetail
+		SccProjectUniqueName73 = VehicleCountEntryDetailUnitTests\\VehicleCountEntryDetailUnitTests.csproj
+		SccProjectTopLevelParentUniqueName73 = GSC.Rover.DMS.sln
+		SccProjectName73 = VehicleCountEntryDetailUnitTests
+		SccLocalPath73 = VehicleCountEntryDetailUnitTests
+		SccProjectUniqueName74 = VehicleCountEntry\\VehicleCountEntry.csproj
+		SccProjectTopLevelParentUniqueName74 = GSC.Rover.DMS.sln
+		SccProjectName74 = VehicleCountEntry
+		SccLocalPath74 = VehicleCountEntry
+		SccProjectUniqueName75 = VehicleCountEntryUnitTests\\VehicleCountEntryUnitTests.csproj
+		SccProjectTopLevelParentUniqueName75 = GSC.Rover.DMS.sln
+		SccProjectName75 = VehicleCountEntryUnitTests
+		SccLocalPath75 = VehicleCountEntryUnitTests
+		SccProjectUniqueName76 = VehicleAccessory\\VehicleAccessory.csproj
+		SccProjectTopLevelParentUniqueName76 = GSC.Rover.DMS.sln
+		SccProjectName76 = VehicleAccessory
+		SccLocalPath76 = VehicleAccessory
+		SccProjectUniqueName77 = VehicleCabChassis\\VehicleCabChassis.csproj
+		SccProjectTopLevelParentUniqueName77 = GSC.Rover.DMS.sln
+		SccProjectName77 = VehicleCabChassis
+		SccLocalPath77 = VehicleCabChassis
+		SccProjectUniqueName78 = QuoteCabChassis\\QuoteCabChassis.csproj
+		SccProjectTopLevelParentUniqueName78 = GSC.Rover.DMS.sln
+		SccProjectName78 = QuoteCabChassis
+		SccLocalPath78 = QuoteCabChassis
+		SccProjectUniqueName79 = QuoteAccessory\\QuoteAccessory.csproj
+		SccProjectTopLevelParentUniqueName79 = GSC.Rover.DMS.sln
+		SccProjectName79 = QuoteAccessory
+		SccLocalPath79 = QuoteAccessory
+		SccProjectUniqueName80 = Account\\Account.csproj
+		SccProjectTopLevelParentUniqueName80 = GSC.Rover.DMS.sln
+		SccProjectName80 = Account
+		SccLocalPath80 = Account
+		SccProjectUniqueName81 = CashReceipt\\CashReceipt.csproj
+		SccProjectTopLevelParentUniqueName81 = GSC.Rover.DMS.sln
+		SccProjectName81 = CashReceipt
+		SccLocalPath81 = CashReceipt
+		SccProjectUniqueName82 = PostDeliveryAdminSetup\\PostDeliveryAdminSetup.csproj
+		SccProjectTopLevelParentUniqueName82 = GSC.Rover.DMS.sln
+		SccProjectName82 = PostDeliveryAdminSetup
+		SccLocalPath82 = PostDeliveryAdminSetup
+		SccProjectUniqueName83 = Contact\\Contact.csproj
+		SccProjectTopLevelParentUniqueName83 = GSC.Rover.DMS.sln
+		SccProjectName83 = Contact
+		SccLocalPath83 = Contact
+		SccProjectUniqueName84 = RequirementChecklist\\RequirementChecklist.csproj
+		SccProjectTopLevelParentUniqueName84 = GSC.Rover.DMS.sln
+		SccProjectName84 = RequirementChecklist
+		SccLocalPath84 = RequirementChecklist
+		SccProjectUniqueName85 = InviteUnitTests\\InvitationUnitTests.csproj
+		SccProjectTopLevelParentUniqueName85 = GSC.Rover.DMS.sln
+		SccProjectName85 = InviteUnitTests
+		SccLocalPath85 = InviteUnitTests
+		SccProjectUniqueName86 = Insurance\\InsuranceCoverage.csproj
+		SccProjectTopLevelParentUniqueName86 = GSC.Rover.DMS.sln
+		SccProjectName86 = Insurance
+		SccLocalPath86 = Insurance
+		SccProjectUniqueName87 = ChargesItem\\ChargesItem.csproj
+		SccProjectTopLevelParentUniqueName87 = GSC.Rover.DMS.sln
+		SccProjectName87 = ChargesItem
+		SccLocalPath87 = ChargesItem
+		SccProjectUniqueName88 = TransactedVehicle\\TransactedVehicle.csproj
+		SccProjectTopLevelParentUniqueName88 = GSC.Rover.DMS.sln
+		SccProjectName88 = TransactedVehicle
+		SccLocalPath88 = TransactedVehicle
+		SccProjectUniqueName89 = InventoryMovementHandler\\InventoryMovement.csproj
+		SccProjectTopLevelParentUniqueName89 = GSC.Rover.DMS.sln
+		SccProjectName89 = InventoryMovementHandler
+		SccLocalPath89 = InventoryMovementHandler
+		SccProjectUniqueName90 = PriceList\\PriceList.csproj
+		SccProjectTopLevelParentUniqueName90 = GSC.Rover.DMS.sln
+		SccProjectName90 = PriceList
+		SccLocalPath90 = PriceList
+		SccProjectUniqueName91 = Invitation\\Invitation.csproj
+		SccProjectTopLevelParentUniqueName91 = GSC.Rover.DMS.sln
+		SccProjectName91 = Invitation
+		SccLocalPath91 = Invitation
+		SccProjectUniqueName92 = GVDReport\\GVDReport.csproj
+		SccProjectTopLevelParentUniqueName92 = GSC.Rover.DMS.sln
+		SccProjectName92 = GVDReport
+		SccLocalPath92 = GVDReport
+		SccProjectUniqueName93 = VehicleColor\\VehicleColor.csproj
+		SccProjectTopLevelParentUniqueName93 = GSC.Rover.DMS.sln
+		SccProjectName93 = VehicleColor
+		SccLocalPath93 = VehicleColor
+		SccProjectUniqueName94 = SalesOrderCabChassis\\SalesOrderCabChassis.csproj
+		SccProjectTopLevelParentUniqueName94 = GSC.Rover.DMS.sln
+		SccProjectName94 = SalesOrderCabChassis
+		SccLocalPath94 = SalesOrderCabChassis
+		SccProjectUniqueName95 = TaxMaintenance\\TaxMaintenance.csproj
+		SccProjectTopLevelParentUniqueName95 = GSC.Rover.DMS.sln
+		SccProjectName95 = TaxMaintenance
+		SccLocalPath95 = TaxMaintenance
+		SccProjectUniqueName96 = ApproverSetup\\ApproverSetup.csproj
+		SccProjectTopLevelParentUniqueName96 = GSC.Rover.DMS.sln
+		SccProjectName96 = ApproverSetup
+		SccLocalPath96 = ApproverSetup
+		SccProjectUniqueName97 = SalesOrderAccessory\\SalesOrderAccessory.csproj
+		SccProjectTopLevelParentUniqueName97 = GSC.Rover.DMS.sln
+		SccProjectName97 = SalesOrderAccessory
+		SccLocalPath97 = SalesOrderAccessory
+		SccProjectUniqueName98 = City\\City.csproj
+		SccProjectTopLevelParentUniqueName98 = GSC.Rover.DMS.sln
+		SccProjectName98 = City
+		SccLocalPath98 = City
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD84A40-56F9-45C4-A818-6D580BC5F67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD84A40-56F9-45C4-A818-6D580BC5F67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD84A40-56F9-45C4-A818-6D580BC5F67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD84A40-56F9-45C4-A818-6D580BC5F67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007D4C6B-A746-4EA2-B615-7CF59960EB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007D4C6B-A746-4EA2-B615-7CF59960EB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007D4C6B-A746-4EA2-B615-7CF59960EB40}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{007D4C6B-A746-4EA2-B615-7CF59960EB40}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{88D6E49C-DEC0-4A59-80EF-A8FCFCBB6DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D6E49C-DEC0-4A59-80EF-A8FCFCBB6DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D6E49C-DEC0-4A59-80EF-A8FCFCBB6DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D6E49C-DEC0-4A59-80EF-A8FCFCBB6DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889EB817-32C4-410B-BCDC-C5EAC214226C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889EB817-32C4-410B-BCDC-C5EAC214226C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889EB817-32C4-410B-BCDC-C5EAC214226C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889EB817-32C4-410B-BCDC-C5EAC214226C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202EDCA7-071C-4BCD-8E82-68863FE92D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202EDCA7-071C-4BCD-8E82-68863FE92D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202EDCA7-071C-4BCD-8E82-68863FE92D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202EDCA7-071C-4BCD-8E82-68863FE92D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D467D592-2F90-4ED9-A40A-575E56D49540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D467D592-2F90-4ED9-A40A-575E56D49540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D467D592-2F90-4ED9-A40A-575E56D49540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D467D592-2F90-4ED9-A40A-575E56D49540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65D68AB-7874-4673-B027-07D4C55BD00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65D68AB-7874-4673-B027-07D4C55BD00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65D68AB-7874-4673-B027-07D4C55BD00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65D68AB-7874-4673-B027-07D4C55BD00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B2299B-E8FA-4A3D-9338-9775B314BE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B2299B-E8FA-4A3D-9338-9775B314BE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B2299B-E8FA-4A3D-9338-9775B314BE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B2299B-E8FA-4A3D-9338-9775B314BE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F0BFC3-5385-472C-B8DB-43BCFB2378D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F0BFC3-5385-472C-B8DB-43BCFB2378D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F0BFC3-5385-472C-B8DB-43BCFB2378D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F0BFC3-5385-472C-B8DB-43BCFB2378D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E59270-0C39-4CD4-A193-D35FACCC0FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E59270-0C39-4CD4-A193-D35FACCC0FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E59270-0C39-4CD4-A193-D35FACCC0FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E59270-0C39-4CD4-A193-D35FACCC0FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47E7B37-ADF3-4A12-B3A4-F16D77D3C3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47E7B37-ADF3-4A12-B3A4-F16D77D3C3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47E7B37-ADF3-4A12-B3A4-F16D77D3C3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47E7B37-ADF3-4A12-B3A4-F16D77D3C3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B81B1B-267E-4109-987A-C615C1A6E002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B81B1B-267E-4109-987A-C615C1A6E002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B81B1B-267E-4109-987A-C615C1A6E002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B81B1B-267E-4109-987A-C615C1A6E002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C12662-233A-4808-A93F-B10472806B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C12662-233A-4808-A93F-B10472806B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C12662-233A-4808-A93F-B10472806B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C12662-233A-4808-A93F-B10472806B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDF23A3-98BE-46E8-92A6-D60C80ADA76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDF23A3-98BE-46E8-92A6-D60C80ADA76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDF23A3-98BE-46E8-92A6-D60C80ADA76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDF23A3-98BE-46E8-92A6-D60C80ADA76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE8DEDA-7BBD-428B-85B6-D591347ADA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE8DEDA-7BBD-428B-85B6-D591347ADA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE8DEDA-7BBD-428B-85B6-D591347ADA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE8DEDA-7BBD-428B-85B6-D591347ADA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE973A1A-8E93-44B1-8887-B241B56C0E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE973A1A-8E93-44B1-8887-B241B56C0E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE973A1A-8E93-44B1-8887-B241B56C0E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE973A1A-8E93-44B1-8887-B241B56C0E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EFBE26-6DE6-4723-957D-EE97E3FB1A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EFBE26-6DE6-4723-957D-EE97E3FB1A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EFBE26-6DE6-4723-957D-EE97E3FB1A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EFBE26-6DE6-4723-957D-EE97E3FB1A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1434C8B8-E646-4528-A64E-24B6E0F0B99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1434C8B8-E646-4528-A64E-24B6E0F0B99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1434C8B8-E646-4528-A64E-24B6E0F0B99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1434C8B8-E646-4528-A64E-24B6E0F0B99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71346A82-5EB3-4185-8BB0-145D19B30B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71346A82-5EB3-4185-8BB0-145D19B30B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71346A82-5EB3-4185-8BB0-145D19B30B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71346A82-5EB3-4185-8BB0-145D19B30B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA60477D-9A2F-4BA1-8E2B-599ABA53FD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA60477D-9A2F-4BA1-8E2B-599ABA53FD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA60477D-9A2F-4BA1-8E2B-599ABA53FD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA60477D-9A2F-4BA1-8E2B-599ABA53FD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136AB3F6-CA41-4BAE-8F83-8856B9D2A973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136AB3F6-CA41-4BAE-8F83-8856B9D2A973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136AB3F6-CA41-4BAE-8F83-8856B9D2A973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136AB3F6-CA41-4BAE-8F83-8856B9D2A973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4232FF6B-E60F-40DB-AF70-DC3A337899C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4232FF6B-E60F-40DB-AF70-DC3A337899C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4232FF6B-E60F-40DB-AF70-DC3A337899C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4232FF6B-E60F-40DB-AF70-DC3A337899C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6A3ED3-A65E-40B0-A79B-69BC165B0CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6A3ED3-A65E-40B0-A79B-69BC165B0CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6A3ED3-A65E-40B0-A79B-69BC165B0CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6A3ED3-A65E-40B0-A79B-69BC165B0CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CD8655-B3A9-4EDD-AC28-2C98295AE2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CD8655-B3A9-4EDD-AC28-2C98295AE2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CD8655-B3A9-4EDD-AC28-2C98295AE2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CD8655-B3A9-4EDD-AC28-2C98295AE2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5071BF-DAE1-44E8-8808-54F3FCC1B115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5071BF-DAE1-44E8-8808-54F3FCC1B115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5071BF-DAE1-44E8-8808-54F3FCC1B115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5071BF-DAE1-44E8-8808-54F3FCC1B115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501B8013-8C80-4F19-86DF-380CF041F8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501B8013-8C80-4F19-86DF-380CF041F8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501B8013-8C80-4F19-86DF-380CF041F8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501B8013-8C80-4F19-86DF-380CF041F8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270369B4-61C1-4554-9969-70DD9C6FADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270369B4-61C1-4554-9969-70DD9C6FADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270369B4-61C1-4554-9969-70DD9C6FADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270369B4-61C1-4554-9969-70DD9C6FADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A941860-DD4C-46B5-9938-336D819DFDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A941860-DD4C-46B5-9938-336D819DFDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A941860-DD4C-46B5-9938-336D819DFDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A941860-DD4C-46B5-9938-336D819DFDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C626692-A6B2-4B03-BE0E-00FE27652468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C626692-A6B2-4B03-BE0E-00FE27652468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C626692-A6B2-4B03-BE0E-00FE27652468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C626692-A6B2-4B03-BE0E-00FE27652468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7726AE75-A544-455D-A331-24684B95840E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7726AE75-A544-455D-A331-24684B95840E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7726AE75-A544-455D-A331-24684B95840E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7726AE75-A544-455D-A331-24684B95840E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D812AA7-3C2B-4393-A6FF-0D334B5CDD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D812AA7-3C2B-4393-A6FF-0D334B5CDD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D812AA7-3C2B-4393-A6FF-0D334B5CDD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D812AA7-3C2B-4393-A6FF-0D334B5CDD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE84D7AD-E048-4A07-9516-140D0D3C6B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE84D7AD-E048-4A07-9516-140D0D3C6B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE84D7AD-E048-4A07-9516-140D0D3C6B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE84D7AD-E048-4A07-9516-140D0D3C6B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF79295B-1D37-4BDD-8ADD-93999D44B531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF79295B-1D37-4BDD-8ADD-93999D44B531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF79295B-1D37-4BDD-8ADD-93999D44B531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF79295B-1D37-4BDD-8ADD-93999D44B531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DC78C2-1347-447E-8814-AAF5AD49A7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DC78C2-1347-447E-8814-AAF5AD49A7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DC78C2-1347-447E-8814-AAF5AD49A7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DC78C2-1347-447E-8814-AAF5AD49A7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B51A7A-CE90-4AD7-8D3E-FF6C758EEE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B51A7A-CE90-4AD7-8D3E-FF6C758EEE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B51A7A-CE90-4AD7-8D3E-FF6C758EEE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B51A7A-CE90-4AD7-8D3E-FF6C758EEE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25845EC4-9BF5-4FEC-9EDC-B8EE7C26D930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25845EC4-9BF5-4FEC-9EDC-B8EE7C26D930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25845EC4-9BF5-4FEC-9EDC-B8EE7C26D930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25845EC4-9BF5-4FEC-9EDC-B8EE7C26D930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99D3654-04AB-4484-B4E1-75FBA7EB6050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99D3654-04AB-4484-B4E1-75FBA7EB6050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99D3654-04AB-4484-B4E1-75FBA7EB6050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99D3654-04AB-4484-B4E1-75FBA7EB6050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CA7FA0-5A20-45C2-BF8C-A74BC9D0652E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CA7FA0-5A20-45C2-BF8C-A74BC9D0652E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CA7FA0-5A20-45C2-BF8C-A74BC9D0652E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CA7FA0-5A20-45C2-BF8C-A74BC9D0652E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1935740C-3128-40CD-8150-F2D34896250E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1935740C-3128-40CD-8150-F2D34896250E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1935740C-3128-40CD-8150-F2D34896250E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1935740C-3128-40CD-8150-F2D34896250E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1935740C-3128-40CD-8150-F2D34896250E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848E2E9B-4CFE-42E0-AD62-147D83E15D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848E2E9B-4CFE-42E0-AD62-147D83E15D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848E2E9B-4CFE-42E0-AD62-147D83E15D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848E2E9B-4CFE-42E0-AD62-147D83E15D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B101F5-55E4-4287-AB0D-F07DAF3716A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B101F5-55E4-4287-AB0D-F07DAF3716A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B101F5-55E4-4287-AB0D-F07DAF3716A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B101F5-55E4-4287-AB0D-F07DAF3716A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0A0D58-B133-4DEA-AB27-FA54772C48B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0A0D58-B133-4DEA-AB27-FA54772C48B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0A0D58-B133-4DEA-AB27-FA54772C48B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0A0D58-B133-4DEA-AB27-FA54772C48B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF1C793-A176-4C4F-95E6-644292C44F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF1C793-A176-4C4F-95E6-644292C44F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF1C793-A176-4C4F-95E6-644292C44F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF1C793-A176-4C4F-95E6-644292C44F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AE2A2F-A816-4E65-8EAA-880E35D3138F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AE2A2F-A816-4E65-8EAA-880E35D3138F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AE2A2F-A816-4E65-8EAA-880E35D3138F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AE2A2F-A816-4E65-8EAA-880E35D3138F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9221FA-1228-488B-9922-B71FB4A02464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9221FA-1228-488B-9922-B71FB4A02464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9221FA-1228-488B-9922-B71FB4A02464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9221FA-1228-488B-9922-B71FB4A02464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7C4F17-8F6E-4A6D-AF0B-652E4903720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7C4F17-8F6E-4A6D-AF0B-652E4903720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7C4F17-8F6E-4A6D-AF0B-652E4903720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7C4F17-8F6E-4A6D-AF0B-652E4903720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DF1A2D-DA79-4046-BDC2-FE91D5AB34AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DF1A2D-DA79-4046-BDC2-FE91D5AB34AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DF1A2D-DA79-4046-BDC2-FE91D5AB34AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DF1A2D-DA79-4046-BDC2-FE91D5AB34AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16663647-A436-4542-951D-2EA7128C0DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16663647-A436-4542-951D-2EA7128C0DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16663647-A436-4542-951D-2EA7128C0DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16663647-A436-4542-951D-2EA7128C0DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47E46DC-1A76-410B-B200-7027FCDC9AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47E46DC-1A76-410B-B200-7027FCDC9AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47E46DC-1A76-410B-B200-7027FCDC9AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47E46DC-1A76-410B-B200-7027FCDC9AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27DE0134-C065-40D8-A862-7B1984AF6B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DE0134-C065-40D8-A862-7B1984AF6B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DE0134-C065-40D8-A862-7B1984AF6B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DE0134-C065-40D8-A862-7B1984AF6B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B85291-FEFC-4F22-B0BB-47EAF8D7FF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B85291-FEFC-4F22-B0BB-47EAF8D7FF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B85291-FEFC-4F22-B0BB-47EAF8D7FF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B85291-FEFC-4F22-B0BB-47EAF8D7FF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D5782E-F388-42B9-92B7-8B5098D3ABFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D5782E-F388-42B9-92B7-8B5098D3ABFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D5782E-F388-42B9-92B7-8B5098D3ABFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D5782E-F388-42B9-92B7-8B5098D3ABFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8F45D6-515D-449B-939A-E4460E900A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8F45D6-515D-449B-939A-E4460E900A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8F45D6-515D-449B-939A-E4460E900A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8F45D6-515D-449B-939A-E4460E900A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C166134-33EF-444E-88B3-1497D864AE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C166134-33EF-444E-88B3-1497D864AE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C166134-33EF-444E-88B3-1497D864AE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C166134-33EF-444E-88B3-1497D864AE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9F14B8-CF16-4799-B5C9-109ECC2C08D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9F14B8-CF16-4799-B5C9-109ECC2C08D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9F14B8-CF16-4799-B5C9-109ECC2C08D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9F14B8-CF16-4799-B5C9-109ECC2C08D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44E401A-1363-4056-A3E1-B8BAEDFCCAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44E401A-1363-4056-A3E1-B8BAEDFCCAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44E401A-1363-4056-A3E1-B8BAEDFCCAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44E401A-1363-4056-A3E1-B8BAEDFCCAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4C84C9-7C4A-46BC-9F96-BBF5440EE0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4C84C9-7C4A-46BC-9F96-BBF5440EE0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4C84C9-7C4A-46BC-9F96-BBF5440EE0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4C84C9-7C4A-46BC-9F96-BBF5440EE0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E7428A-C00D-451A-995E-04A5DD9B5BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E7428A-C00D-451A-995E-04A5DD9B5BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E7428A-C00D-451A-995E-04A5DD9B5BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E7428A-C00D-451A-995E-04A5DD9B5BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943490B0-D365-44B5-B011-A5F9B428BFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943490B0-D365-44B5-B011-A5F9B428BFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943490B0-D365-44B5-B011-A5F9B428BFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943490B0-D365-44B5-B011-A5F9B428BFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092F6814-E88A-424A-A6A5-AEABC6A5B176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092F6814-E88A-424A-A6A5-AEABC6A5B176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092F6814-E88A-424A-A6A5-AEABC6A5B176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092F6814-E88A-424A-A6A5-AEABC6A5B176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431E0673-DF00-4253-ADB5-2C8D6431F4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431E0673-DF00-4253-ADB5-2C8D6431F4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431E0673-DF00-4253-ADB5-2C8D6431F4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431E0673-DF00-4253-ADB5-2C8D6431F4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90366D5C-3BB5-4A4E-9C30-CCC60772E4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90366D5C-3BB5-4A4E-9C30-CCC60772E4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90366D5C-3BB5-4A4E-9C30-CCC60772E4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90366D5C-3BB5-4A4E-9C30-CCC60772E4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD6B088-C764-4472-8EC0-A85EA26C6E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD6B088-C764-4472-8EC0-A85EA26C6E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD6B088-C764-4472-8EC0-A85EA26C6E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD6B088-C764-4472-8EC0-A85EA26C6E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C139696D-47AB-4709-945E-CAA296A3C72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C139696D-47AB-4709-945E-CAA296A3C72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C139696D-47AB-4709-945E-CAA296A3C72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C139696D-47AB-4709-945E-CAA296A3C72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FB4F0A-C986-4F06-845D-60B10BBEB56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FB4F0A-C986-4F06-845D-60B10BBEB56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FB4F0A-C986-4F06-845D-60B10BBEB56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FB4F0A-C986-4F06-845D-60B10BBEB56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DAE5A2-3439-4D36-8074-0B4DDA8769DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DAE5A2-3439-4D36-8074-0B4DDA8769DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DAE5A2-3439-4D36-8074-0B4DDA8769DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DAE5A2-3439-4D36-8074-0B4DDA8769DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8CFA81-97A6-4321-BDD5-DF562FB55F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8CFA81-97A6-4321-BDD5-DF562FB55F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8CFA81-97A6-4321-BDD5-DF562FB55F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8CFA81-97A6-4321-BDD5-DF562FB55F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6449D13A-B241-437D-928D-0AF23BC90466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6449D13A-B241-437D-928D-0AF23BC90466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6449D13A-B241-437D-928D-0AF23BC90466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6449D13A-B241-437D-928D-0AF23BC90466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D07633-9398-4E8F-A855-23BA7C5E5121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D07633-9398-4E8F-A855-23BA7C5E5121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D07633-9398-4E8F-A855-23BA7C5E5121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D07633-9398-4E8F-A855-23BA7C5E5121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E980C44-6008-45F5-9E63-D71AE3C99821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E980C44-6008-45F5-9E63-D71AE3C99821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E980C44-6008-45F5-9E63-D71AE3C99821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E980C44-6008-45F5-9E63-D71AE3C99821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475368EC-C6FC-480C-AC77-2A7923283FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475368EC-C6FC-480C-AC77-2A7923283FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475368EC-C6FC-480C-AC77-2A7923283FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475368EC-C6FC-480C-AC77-2A7923283FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1376B18A-2F98-44AD-A72C-86FF6301A469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1376B18A-2F98-44AD-A72C-86FF6301A469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1376B18A-2F98-44AD-A72C-86FF6301A469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1376B18A-2F98-44AD-A72C-86FF6301A469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80EDEE2-C778-4061-8E20-B014B94C7AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80EDEE2-C778-4061-8E20-B014B94C7AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80EDEE2-C778-4061-8E20-B014B94C7AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80EDEE2-C778-4061-8E20-B014B94C7AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACC09C0-7DD7-4321-A452-10AB757EC05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACC09C0-7DD7-4321-A452-10AB757EC05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACC09C0-7DD7-4321-A452-10AB757EC05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACC09C0-7DD7-4321-A452-10AB757EC05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A952D7-4881-43E0-B67E-5690A58E1348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A952D7-4881-43E0-B67E-5690A58E1348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A952D7-4881-43E0-B67E-5690A58E1348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A952D7-4881-43E0-B67E-5690A58E1348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAA71FE-A31F-40D9-831F-E2A90F4165E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAA71FE-A31F-40D9-831F-E2A90F4165E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAA71FE-A31F-40D9-831F-E2A90F4165E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAA71FE-A31F-40D9-831F-E2A90F4165E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB7F967-4D77-4B8D-AA5B-EBBA34B9CA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB7F967-4D77-4B8D-AA5B-EBBA34B9CA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB7F967-4D77-4B8D-AA5B-EBBA34B9CA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB7F967-4D77-4B8D-AA5B-EBBA34B9CA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E078F9BF-A420-4667-8ECE-FE3ED503613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E078F9BF-A420-4667-8ECE-FE3ED503613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E078F9BF-A420-4667-8ECE-FE3ED503613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E078F9BF-A420-4667-8ECE-FE3ED503613C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD163CB-C6F0-4B61-8E80-98D06E651F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD163CB-C6F0-4B61-8E80-98D06E651F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD163CB-C6F0-4B61-8E80-98D06E651F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD163CB-C6F0-4B61-8E80-98D06E651F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0BB6F0-E1B8-455D-ABF0-D81989366C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0BB6F0-E1B8-455D-ABF0-D81989366C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0BB6F0-E1B8-455D-ABF0-D81989366C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0BB6F0-E1B8-455D-ABF0-D81989366C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81740175-2B2A-4367-9843-BE480D81C390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81740175-2B2A-4367-9843-BE480D81C390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81740175-2B2A-4367-9843-BE480D81C390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81740175-2B2A-4367-9843-BE480D81C390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C832B4-2A26-436F-8ECA-5B9587EDC790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C832B4-2A26-436F-8ECA-5B9587EDC790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C832B4-2A26-436F-8ECA-5B9587EDC790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C832B4-2A26-436F-8ECA-5B9587EDC790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25219DF9-A32D-468C-B0A2-48F4AAB93B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25219DF9-A32D-468C-B0A2-48F4AAB93B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25219DF9-A32D-468C-B0A2-48F4AAB93B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25219DF9-A32D-468C-B0A2-48F4AAB93B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04AF583-C61D-4D77-A3D6-F73003FB8D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04AF583-C61D-4D77-A3D6-F73003FB8D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04AF583-C61D-4D77-A3D6-F73003FB8D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04AF583-C61D-4D77-A3D6-F73003FB8D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E97A82-7755-4E40-9761-70FD5C62E3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E97A82-7755-4E40-9761-70FD5C62E3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E97A82-7755-4E40-9761-70FD5C62E3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E97A82-7755-4E40-9761-70FD5C62E3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3978569-0121-4D77-9499-4DFD97DEB96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3978569-0121-4D77-9499-4DFD97DEB96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3978569-0121-4D77-9499-4DFD97DEB96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3978569-0121-4D77-9499-4DFD97DEB96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76534419-44DD-4F1D-9059-657A18A22BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76534419-44DD-4F1D-9059-657A18A22BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76534419-44DD-4F1D-9059-657A18A22BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76534419-44DD-4F1D-9059-657A18A22BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86544BBF-F35D-4DE1-8FFA-31FAAE8A7FD6} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{6A4C5F73-7363-4AC8-B5C8-099CAA355DA2} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{889EB817-32C4-410B-BCDC-C5EAC214226C} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{AA4722C9-FDED-4119-8554-3A8C9A340DF1} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{F65D68AB-7874-4673-B027-07D4C55BD00A} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{DBBCF3CD-2D4D-47FB-9DC6-F5ABB31226FC} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{F34C1E35-B13C-4713-84E7-C2FF3C3E65C9} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{48E59270-0C39-4CD4-A193-D35FACCC0FD8} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{68C12662-233A-4808-A93F-B10472806B66} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{2CDF23A3-98BE-46E8-92A6-D60C80ADA76F} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{FBEE6DC6-6742-4B18-9BCD-542C2949FE3D} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{AFE8DEDA-7BBD-428B-85B6-D591347ADA29} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{EE973A1A-8E93-44B1-8887-B241B56C0E75} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{E69348CD-1B8A-4B76-95DE-1B8AFAC187F9} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{136AB3F6-CA41-4BAE-8F83-8856B9D2A973} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{4232FF6B-E60F-40DB-AF70-DC3A337899C8} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{2CF2FE0C-4682-4968-8B0A-51DA2E40BF51} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{270369B4-61C1-4554-9969-70DD9C6FADCA} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{9C626692-A6B2-4B03-BE0E-00FE27652468} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{6D812AA7-3C2B-4393-A6FF-0D334B5CDD4B} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{AE84D7AD-E048-4A07-9516-140D0D3C6B6E} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{04DC78C2-1347-447E-8814-AAF5AD49A7C6} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{25845EC4-9BF5-4FEC-9EDC-B8EE7C26D930} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{A99D3654-04AB-4484-B4E1-75FBA7EB6050} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{1935740C-3128-40CD-8150-F2D34896250E} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{848E2E9B-4CFE-42E0-AD62-147D83E15D01} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{BA0A0D58-B133-4DEA-AB27-FA54772C48B7} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{ECF1C793-A176-4C4F-95E6-644292C44F07} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{5FA24F0F-B73C-4D8E-AF4A-DCE14C85123E} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{F9AE2A2F-A816-4E65-8EAA-880E35D3138F} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{7A9221FA-1228-488B-9922-B71FB4A02464} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{AC7C4F17-8F6E-4A6D-AF0B-652E4903720F} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{B7DF1A2D-DA79-4046-BDC2-FE91D5AB34AF} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{16663647-A436-4542-951D-2EA7128C0DBD} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{27DE0134-C065-40D8-A862-7B1984AF6B6E} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{47B85291-FEFC-4F22-B0BB-47EAF8D7FF12} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{69D5782E-F388-42B9-92B7-8B5098D3ABFF} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{9B8F45D6-515D-449B-939A-E4460E900A84} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{0C166134-33EF-444E-88B3-1497D864AE0B} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{3C9F14B8-CF16-4799-B5C9-109ECC2C08D0} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{A44E401A-1363-4056-A3E1-B8BAEDFCCAA8} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{9A4C84C9-7C4A-46BC-9F96-BBF5440EE0DA} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{F2E7428A-C00D-451A-995E-04A5DD9B5BAB} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{943490B0-D365-44B5-B011-A5F9B428BFDF} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{431E0673-DF00-4253-ADB5-2C8D6431F4FE} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{90366D5C-3BB5-4A4E-9C30-CCC60772E4E4} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{2BD6B088-C764-4472-8EC0-A85EA26C6E28} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{58FB4F0A-C986-4F06-845D-60B10BBEB56D} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{4A8CFA81-97A6-4321-BDD5-DF562FB55F6E} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{6449D13A-B241-437D-928D-0AF23BC90466} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{06D07633-9398-4E8F-A855-23BA7C5E5121} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{8E980C44-6008-45F5-9E63-D71AE3C99821} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{475368EC-C6FC-480C-AC77-2A7923283FDB} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{1376B18A-2F98-44AD-A72C-86FF6301A469} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{C80EDEE2-C778-4061-8E20-B014B94C7AED} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{8ACC09C0-7DD7-4321-A452-10AB757EC05F} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{F4A952D7-4881-43E0-B67E-5690A58E1348} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{9CB7F967-4D77-4B8D-AA5B-EBBA34B9CA16} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{E078F9BF-A420-4667-8ECE-FE3ED503613C} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{ABD163CB-C6F0-4B61-8E80-98D06E651F9D} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{7EF99A7F-B58A-4A49-AFF1-12BE81854730} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{100CEBFF-8C83-4977-A980-E6F80A0AFEB5} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{4E0BB6F0-E1B8-455D-ABF0-D81989366C94} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{81740175-2B2A-4367-9843-BE480D81C390} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{40C832B4-2A26-436F-8ECA-5B9587EDC790} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{25219DF9-A32D-468C-B0A2-48F4AAB93B06} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{D04AF583-C61D-4D77-A3D6-F73003FB8D47} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{E8E97A82-7755-4E40-9761-70FD5C62E3DB} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{C3978569-0121-4D77-9499-4DFD97DEB96D} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{76534419-44DD-4F1D-9059-657A18A22BEA} = {4698E129-86D1-4AA8-BEE6-B42F391C60F1}
+		{3BD84A40-56F9-45C4-A818-6D580BC5F67B} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{88D6E49C-DEC0-4A59-80EF-A8FCFCBB6DBD} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{202EDCA7-071C-4BCD-8E82-68863FE92D42} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{D467D592-2F90-4ED9-A40A-575E56D49540} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{E6B2299B-E8FA-4A3D-9338-9775B314BE9F} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{03F0BFC3-5385-472C-B8DB-43BCFB2378D9} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{C47E7B37-ADF3-4A12-B3A4-F16D77D3C3C6} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{57B81B1B-267E-4109-987A-C615C1A6E002} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{C4EFBE26-6DE6-4723-957D-EE97E3FB1A06} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{1434C8B8-E646-4528-A64E-24B6E0F0B99F} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{71346A82-5EB3-4185-8BB0-145D19B30B31} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{DA60477D-9A2F-4BA1-8E2B-599ABA53FD7F} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{0A6A3ED3-A65E-40B0-A79B-69BC165B0CAC} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{41CD8655-B3A9-4EDD-AC28-2C98295AE2B6} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{5D5071BF-DAE1-44E8-8808-54F3FCC1B115} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{501B8013-8C80-4F19-86DF-380CF041F8E0} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{1A941860-DD4C-46B5-9938-336D819DFDE2} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{7726AE75-A544-455D-A331-24684B95840E} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{EF79295B-1D37-4BDD-8ADD-93999D44B531} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{60B51A7A-CE90-4AD7-8D3E-FF6C758EEE78} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{75CA7FA0-5A20-45C2-BF8C-A74BC9D0652E} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{11B101F5-55E4-4287-AB0D-F07DAF3716A3} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{F47E46DC-1A76-410B-B200-7027FCDC9AEC} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{092F6814-E88A-424A-A6A5-AEABC6A5B176} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{C139696D-47AB-4709-945E-CAA296A3C72A} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{00DAE5A2-3439-4D36-8074-0B4DDA8769DE} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+		{BFAA71FE-A31F-40D9-831F-E2A90F4165E7} = {B0308B28-2761-4C92-92BC-2F39B905CA0F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 96
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://raven:8080/tfs/rndcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Common\\Common.csproj
+		SccProjectTopLevelParentUniqueName1 = GSC.Rover.DMS.sln
+		SccProjectName1 = Common
+		SccLocalPath1 = Common
+		SccProjectUniqueName2 = CommonUnitTests\\CommonUnitTests.csproj
+		SccProjectTopLevelParentUniqueName2 = GSC.Rover.DMS.sln
+		SccProjectName2 = CommonUnitTests
+		SccLocalPath2 = CommonUnitTests
+		SccProjectUniqueName3 = ProspectInquiryUnitTests\\ProspectInquiryUnitTests.csproj
+		SccProjectTopLevelParentUniqueName3 = GSC.Rover.DMS.sln
+		SccProjectName3 = ProspectInquiryUnitTests
+		SccLocalPath3 = ProspectInquiryUnitTests
+		SccProjectUniqueName4 = ProspectInquiry\\ProspectInquiry.csproj
+		SccProjectTopLevelParentUniqueName4 = GSC.Rover.DMS.sln
+		SccProjectName4 = ProspectInquiry
+		SccLocalPath4 = ProspectInquiry
+		SccProjectUniqueName5 = Opportunity\\Opportunity.csproj
+		SccProjectTopLevelParentUniqueName5 = GSC.Rover.DMS.sln
+		SccProjectName5 = Opportunity
+		SccLocalPath5 = Opportunity
+		SccProjectUniqueName6 = OpportunityUnitTests\\OpportunityUnitTests.csproj
+		SccProjectTopLevelParentUniqueName6 = GSC.Rover.DMS.sln
+		SccProjectName6 = OpportunityUnitTests
+		SccLocalPath6 = OpportunityUnitTests
+		SccProjectUniqueName7 = Quote\\Quote.csproj
+		SccProjectTopLevelParentUniqueName7 = GSC.Rover.DMS.sln
+		SccProjectName7 = Quote
+		SccLocalPath7 = Quote
+		SccProjectUniqueName8 = QuoteUnitTests\\QuoteUnitTests.csproj
+		SccProjectTopLevelParentUniqueName8 = GSC.Rover.DMS.sln
+		SccProjectName8 = QuoteUnitTests
+		SccLocalPath8 = QuoteUnitTests
+		SccProjectUniqueName9 = SalesOrder\\SalesOrder.csproj
+		SccProjectTopLevelParentUniqueName9 = GSC.Rover.DMS.sln
+		SccProjectName9 = SalesOrder
+		SccLocalPath9 = SalesOrder
+		SccProjectUniqueName10 = PriceListItem\\PriceListItem.csproj
+		SccProjectTopLevelParentUniqueName10 = GSC.Rover.DMS.sln
+		SccProjectName10 = PriceListItem
+		SccLocalPath10 = PriceListItem
+		SccProjectUniqueName11 = PriceListItemUnitTests\\PriceListItemUnitTests.csproj
+		SccProjectTopLevelParentUniqueName11 = GSC.Rover.DMS.sln
+		SccProjectName11 = PriceListItemUnitTests
+		SccLocalPath11 = PriceListItemUnitTests
+		SccProjectUniqueName12 = AppliedPriceList\\AppliedPriceList.csproj
+		SccProjectTopLevelParentUniqueName12 = GSC.Rover.DMS.sln
+		SccProjectName12 = AppliedPriceList
+		SccLocalPath12 = AppliedPriceList
+		SccProjectUniqueName13 = AppliedPriceListUnitTests\\AppliedPriceListUnitTests.csproj
+		SccProjectTopLevelParentUniqueName13 = GSC.Rover.DMS.sln
+		SccProjectName13 = AppliedPriceListUnitTests
+		SccLocalPath13 = AppliedPriceListUnitTests
+		SccProjectUniqueName14 = AppliedCharges\\AppliedCharges.csproj
+		SccProjectTopLevelParentUniqueName14 = GSC.Rover.DMS.sln
+		SccProjectName14 = AppliedCharges
+		SccLocalPath14 = AppliedCharges
+		SccProjectUniqueName15 = AppliedChargesUnitTests\\AppliedChargesUnitTests.csproj
+		SccProjectTopLevelParentUniqueName15 = GSC.Rover.DMS.sln
+		SccProjectName15 = AppliedChargesUnitTests
+		SccLocalPath15 = AppliedChargesUnitTests
+		SccProjectUniqueName16 = SalesOrderUnitTests\\SalesOrderUnitTests.csproj
+		SccProjectTopLevelParentUniqueName16 = GSC.Rover.DMS.sln
+		SccProjectName16 = SalesOrderUnitTests
+		SccLocalPath16 = SalesOrderUnitTests
+		SccProjectUniqueName17 = DocumentChecklist\\DocumentChecklist.csproj
+		SccProjectTopLevelParentUniqueName17 = GSC.Rover.DMS.sln
+		SccProjectName17 = DocumentChecklist
+		SccLocalPath17 = DocumentChecklist
+		SccProjectUniqueName18 = QuoteDiscount\\QuoteDiscount.csproj
+		SccProjectTopLevelParentUniqueName18 = GSC.Rover.DMS.sln
+		SccProjectName18 = QuoteDiscount
+		SccLocalPath18 = QuoteDiscount
+		SccProjectUniqueName19 = QuoteCharge\\QuoteCharge.csproj
+		SccProjectTopLevelParentUniqueName19 = GSC.Rover.DMS.sln
+		SccProjectName19 = QuoteCharge
+		SccLocalPath19 = QuoteCharge
+		SccProjectUniqueName20 = SalesOrderDiscount\\SalesOrderDiscount.csproj
+		SccProjectTopLevelParentUniqueName20 = GSC.Rover.DMS.sln
+		SccProjectName20 = SalesOrderDiscount
+		SccLocalPath20 = SalesOrderDiscount
+		SccProjectUniqueName21 = SalesOrderCharge\\SalesOrderCharge.csproj
+		SccProjectTopLevelParentUniqueName21 = GSC.Rover.DMS.sln
+		SccProjectName21 = SalesOrderCharge
+		SccLocalPath21 = SalesOrderCharge
+		SccProjectUniqueName22 = QuoteDiscountUnitTests\\QuoteDiscountUnitTests.csproj
+		SccProjectTopLevelParentUniqueName22 = GSC.Rover.DMS.sln
+		SccProjectName22 = QuoteDiscountUnitTests
+		SccLocalPath22 = QuoteDiscountUnitTests
+		SccProjectUniqueName23 = QuoteChargeUnitTests\\QuoteChargeUnitTests.csproj
+		SccProjectTopLevelParentUniqueName23 = GSC.Rover.DMS.sln
+		SccProjectName23 = QuoteChargeUnitTests
+		SccLocalPath23 = QuoteChargeUnitTests
+		SccProjectUniqueName24 = SalesOrderDiscountUnitTests\\SalesOrderDiscountUnitTests.csproj
+		SccProjectTopLevelParentUniqueName24 = GSC.Rover.DMS.sln
+		SccProjectName24 = SalesOrderDiscountUnitTests
+		SccLocalPath24 = SalesOrderDiscountUnitTests
+		SccProjectUniqueName25 = SalesOrderChargeUnitTests\\SalesOrderChargeUnitTests.csproj
+		SccProjectTopLevelParentUniqueName25 = GSC.Rover.DMS.sln
+		SccProjectName25 = SalesOrderChargeUnitTests
+		SccLocalPath25 = SalesOrderChargeUnitTests
+		SccProjectUniqueName26 = MonthlyAmortization\\QuoteMonthlyAmortization.csproj
+		SccProjectTopLevelParentUniqueName26 = GSC.Rover.DMS.sln
+		SccProjectName26 = MonthlyAmortization
+		SccLocalPath26 = MonthlyAmortization
+		SccProjectUniqueName27 = SalesOrderMonthlyAmortization\\SalesOrderMonthlyAmortization.csproj
+		SccProjectTopLevelParentUniqueName27 = GSC.Rover.DMS.sln
+		SccProjectName27 = SalesOrderMonthlyAmortization
+		SccLocalPath27 = SalesOrderMonthlyAmortization
+		SccProjectUniqueName28 = Prospect\\Prospect.csproj
+		SccProjectTopLevelParentUniqueName28 = GSC.Rover.DMS.sln
+		SccProjectName28 = Prospect
+		SccLocalPath28 = Prospect
+		SccProjectUniqueName29 = PurchaseOrderUnitTests\\PurchaseOrderUnitTests.csproj
+		SccProjectTopLevelParentUniqueName29 = GSC.Rover.DMS.sln
+		SccProjectName29 = PurchaseOrderUnitTests
+		SccLocalPath29 = PurchaseOrderUnitTests
+		SccProjectUniqueName30 = ProspectUnitTests\\ProspectUnitTests.csproj
+		SccProjectTopLevelParentUniqueName30 = GSC.Rover.DMS.sln
+		SccProjectName30 = ProspectUnitTests
+		SccLocalPath30 = ProspectUnitTests
+		SccProjectUniqueName31 = QuoteProduct\\QuoteProduct.csproj
+		SccProjectTopLevelParentUniqueName31 = GSC.Rover.DMS.sln
+		SccProjectName31 = QuoteProduct
+		SccLocalPath31 = QuoteProduct
+		SccProjectUniqueName32 = QuoteProductUnitTest\\QuoteProductUnitTest.csproj
+		SccProjectTopLevelParentUniqueName32 = GSC.Rover.DMS.sln
+		SccProjectName32 = QuoteProductUnitTest
+		SccLocalPath32 = QuoteProductUnitTest
+		SccProjectUniqueName33 = RequirementChecklistHandlerUnitTests\\RequirementChecklistUnitTests.csproj
+		SccProjectTopLevelParentUniqueName33 = GSC.Rover.DMS.sln
+		SccProjectName33 = RequirementChecklistHandlerUnitTests
+		SccLocalPath33 = RequirementChecklistHandlerUnitTests
+		SccProjectUniqueName34 = Invoice\\Invoice.csproj
+		SccProjectTopLevelParentUniqueName34 = GSC.Rover.DMS.sln
+		SccProjectName34 = Invoice
+		SccLocalPath34 = Invoice
+		SccProjectUniqueName35 = InvoiceUnitTests\\InvoiceUnitTests.csproj
+		SccProjectTopLevelParentUniqueName35 = GSC.Rover.DMS.sln
+		SccProjectName35 = InvoiceUnitTests
+		SccLocalPath35 = InvoiceUnitTests
+		SccProjectUniqueName36 = AllocatedVehicle\\AllocatedVehicle.csproj
+		SccProjectTopLevelParentUniqueName36 = GSC.Rover.DMS.sln
+		SccProjectName36 = AllocatedVehicle
+		SccLocalPath36 = AllocatedVehicle
+		SccProjectUniqueName37 = AllocatedVehicleUnitTests\\AllocatedVehicleUnitTests.csproj
+		SccProjectTopLevelParentUniqueName37 = GSC.Rover.DMS.sln
+		SccProjectName37 = AllocatedVehicleUnitTests
+		SccLocalPath37 = AllocatedVehicleUnitTests
+		SccProjectUniqueName38 = VehicleClaim\\VehicleClaim.csproj
+		SccProjectTopLevelParentUniqueName38 = GSC.Rover.DMS.sln
+		SccProjectName38 = VehicleClaim
+		SccLocalPath38 = VehicleClaim
+		SccProjectUniqueName39 = VehicleSalesReturn\\VehicleSalesReturn.csproj
+		SccProjectTopLevelParentUniqueName39 = GSC.Rover.DMS.sln
+		SccProjectName39 = VehicleSalesReturn
+		SccLocalPath39 = VehicleSalesReturn
+		SccProjectUniqueName40 = VehicleSalesReturnUnitTests\\VehicleSalesReturnUnitTests.csproj
+		SccProjectTopLevelParentUniqueName40 = GSC.Rover.DMS.sln
+		SccProjectName40 = VehicleSalesReturnUnitTests
+		SccLocalPath40 = VehicleSalesReturnUnitTests
+		SccProjectUniqueName41 = OrderPlanning\\OrderPlanning.csproj
+		SccProjectTopLevelParentUniqueName41 = GSC.Rover.DMS.sln
+		SccProjectName41 = OrderPlanning
+		SccLocalPath41 = OrderPlanning
+		SccProjectUniqueName42 = OrderPlanningUnitTests\\OrderPlanningUnitTests.csproj
+		SccProjectTopLevelParentUniqueName42 = GSC.Rover.DMS.sln
+		SccProjectName42 = OrderPlanningUnitTests
+		SccLocalPath42 = OrderPlanningUnitTests
+		SccProjectUniqueName43 = SalesReturnDetail\\SalesReturnDetail.csproj
+		SccProjectTopLevelParentUniqueName43 = GSC.Rover.DMS.sln
+		SccProjectName43 = SalesReturnDetail
+		SccLocalPath43 = SalesReturnDetail
+		SccProjectUniqueName44 = VehiclePostDeliveryMonitoring\\VehiclePostDeliveryMonitoring.csproj
+		SccProjectTopLevelParentUniqueName44 = GSC.Rover.DMS.sln
+		SccProjectName44 = VehiclePostDeliveryMonitoring
+		SccLocalPath44 = VehiclePostDeliveryMonitoring
+		SccProjectUniqueName45 = OrderPlanningDetailUnitTests\\OrderPlanningDetailUnitTests.csproj
+		SccProjectTopLevelParentUniqueName45 = GSC.Rover.DMS.sln
+		SccProjectName45 = OrderPlanningDetailUnitTests
+		SccLocalPath45 = OrderPlanningDetailUnitTests
+		SccProjectUniqueName46 = OrderPlanningDetail\\OrderPlanningDetail.csproj
+		SccProjectTopLevelParentUniqueName46 = GSC.Rover.DMS.sln
+		SccProjectName46 = OrderPlanningDetail
+		SccLocalPath46 = OrderPlanningDetail
+		SccProjectUniqueName47 = CommittedFirmOrder\\CommittedFirmOrder.csproj
+		SccProjectTopLevelParentUniqueName47 = GSC.Rover.DMS.sln
+		SccProjectName47 = CommittedFirmOrder
+		SccLocalPath47 = CommittedFirmOrder
+		SccProjectUniqueName48 = CommittedFirmOrderUnitTests\\CommittedFirmOrderUnitTests.csproj
+		SccProjectTopLevelParentUniqueName48 = GSC.Rover.DMS.sln
+		SccProjectName48 = CommittedFirmOrderUnitTests
+		SccLocalPath48 = CommittedFirmOrderUnitTests
+		SccProjectUniqueName49 = Sales\u0020Document\\SalesDocument.csproj
+		SccProjectTopLevelParentUniqueName49 = GSC.Rover.DMS.sln
+		SccProjectName49 = Sales\u0020Document
+		SccLocalPath49 = Sales\u0020Document
+		SccWebProject50 = true
+		SccProjectUniqueName50 = ..\\GSC.Rover.DMS.Platform
+		SccProjectName50 = ../GSC.Rover.DMS.Platform
+		SccLocalPath50 = ..\\GSC.Rover.DMS.Platform
+		SccProjectEnlistmentChoice50 = 2
+		SccProjectUniqueName51 = ExtendedPriceListItem\\ExtendedPriceListItem.csproj
+		SccProjectTopLevelParentUniqueName51 = GSC.Rover.DMS.sln
+		SccProjectName51 = ExtendedPriceListItem
+		SccLocalPath51 = ExtendedPriceListItem
+		SccProjectUniqueName52 = CommittedFirmOrderDetail\\CommittedFirmOrderQuantityDetail.csproj
+		SccProjectTopLevelParentUniqueName52 = GSC.Rover.DMS.sln
+		SccProjectName52 = CommittedFirmOrderDetail
+		SccLocalPath52 = CommittedFirmOrderDetail
+		SccProjectUniqueName53 = Product\\Product.csproj
+		SccProjectTopLevelParentUniqueName53 = GSC.Rover.DMS.sln
+		SccProjectName53 = Product
+		SccLocalPath53 = Product
+		SccProjectUniqueName54 = CommittedFirmOrderQuantity\\CommittedFirmOrderQuantity.csproj
+		SccProjectTopLevelParentUniqueName54 = GSC.Rover.DMS.sln
+		SccProjectName54 = CommittedFirmOrderQuantity
+		SccLocalPath54 = CommittedFirmOrderQuantity
+		SccProjectUniqueName55 = VehiclePurchaseOrder\\VehiclePurchaseOrder.csproj
+		SccProjectTopLevelParentUniqueName55 = GSC.Rover.DMS.sln
+		SccProjectName55 = VehiclePurchaseOrder
+		SccLocalPath55 = VehiclePurchaseOrder
+		SccProjectUniqueName56 = ReceivingTransactionDetail\\ReceivingTransactionDetail.csproj
+		SccProjectTopLevelParentUniqueName56 = GSC.Rover.DMS.sln
+		SccProjectName56 = ReceivingTransactionDetail
+		SccLocalPath56 = ReceivingTransactionDetail
+		SccProjectUniqueName57 = ReceivingTransaction\\ReceivingTransaction.csproj
+		SccProjectTopLevelParentUniqueName57 = GSC.Rover.DMS.sln
+		SccProjectName57 = ReceivingTransaction
+		SccLocalPath57 = ReceivingTransaction
+		SccProjectUniqueName58 = ReceivingTransactionUnitTests\\ReceivingTransactionUnitTests.csproj
+		SccProjectTopLevelParentUniqueName58 = GSC.Rover.DMS.sln
+		SccProjectName58 = ReceivingTransactionUnitTests
+		SccLocalPath58 = ReceivingTransactionUnitTests
+		SccProjectUniqueName59 = VehiclePurchaseOrderDetails\\VehiclePurchaseOrderDetails.csproj
+		SccProjectTopLevelParentUniqueName59 = GSC.Rover.DMS.sln
+		SccProjectName59 = VehiclePurchaseOrderDetails
+		SccLocalPath59 = VehiclePurchaseOrderDetails
+		SccProjectUniqueName60 = ReturnTransactionDetail\\ReturnTransactionDetail.csproj
+		SccProjectTopLevelParentUniqueName60 = GSC.Rover.DMS.sln
+		SccProjectName60 = ReturnTransactionDetail
+		SccLocalPath60 = ReturnTransactionDetail
+		SccProjectUniqueName61 = ReturnTransaction\\ReturnTransaction.csproj
+		SccProjectTopLevelParentUniqueName61 = GSC.Rover.DMS.sln
+		SccProjectName61 = ReturnTransaction
+		SccLocalPath61 = ReturnTransaction
+		SccProjectUniqueName62 = ShippingClaim\\ShippingClaim.csproj
+		SccProjectTopLevelParentUniqueName62 = GSC.Rover.DMS.sln
+		SccProjectName62 = ShippingClaim
+		SccLocalPath62 = ShippingClaim
+		SccProjectUniqueName63 = VehicleTransfer\\VehicleTransfer.csproj
+		SccProjectTopLevelParentUniqueName63 = GSC.Rover.DMS.sln
+		SccProjectName63 = VehicleTransfer
+		SccLocalPath63 = VehicleTransfer
+		SccProjectUniqueName64 = IDRequest\\IDRequest.csproj
+		SccProjectTopLevelParentUniqueName64 = GSC.Rover.DMS.sln
+		SccProjectName64 = IDRequest
+		SccLocalPath64 = IDRequest
+		SccProjectUniqueName65 = Vehicle\u0020In-Transit\u0020Transfer\\VehicleInTransitTransfer.csproj
+		SccProjectTopLevelParentUniqueName65 = GSC.Rover.DMS.sln
+		SccProjectName65 = Vehicle\u0020In-Transit\u0020Transfer
+		SccLocalPath65 = Vehicle\u0020In-Transit\u0020Transfer
+		SccProjectUniqueName66 = VehicleCountSchedule\\VehicleCountSchedule.csproj
+		SccProjectTopLevelParentUniqueName66 = GSC.Rover.DMS.sln
+		SccProjectName66 = VehicleCountSchedule
+		SccLocalPath66 = VehicleCountSchedule
+		SccProjectUniqueName67 = VehicleAdjustmentVarianceEntry\\VehicleAdjustmentVarianceEntry.csproj
+		SccProjectTopLevelParentUniqueName67 = GSC.Rover.DMS.sln
+		SccProjectName67 = VehicleAdjustmentVarianceEntry
+		SccLocalPath67 = VehicleAdjustmentVarianceEntry
+		SccProjectUniqueName68 = VehicleAdjustmentVarianceEntryDetail\\VehicleAdjustmentVarianceEntryDetail.csproj
+		SccProjectTopLevelParentUniqueName68 = GSC.Rover.DMS.sln
+		SccProjectName68 = VehicleAdjustmentVarianceEntryDetail
+		SccLocalPath68 = VehicleAdjustmentVarianceEntryDetail
+		SccProjectUniqueName69 = IDSequence\\IDSequence.csproj
+		SccProjectTopLevelParentUniqueName69 = GSC.Rover.DMS.sln
+		SccProjectName69 = IDSequence
+		SccLocalPath69 = IDSequence
+		SccProjectUniqueName70 = VehicleCountScheduleUnitTest\\VehicleCountScheduleUnitTest.csproj
+		SccProjectTopLevelParentUniqueName70 = GSC.Rover.DMS.sln
+		SccProjectName70 = VehicleCountScheduleUnitTest
+		SccLocalPath70 = VehicleCountScheduleUnitTest
+		SccProjectUniqueName71 = VehicleIn-TransitTransferReceiving\\VehicleIn-TransitTransferReceiving.csproj
+		SccProjectTopLevelParentUniqueName71 = GSC.Rover.DMS.sln
+		SccProjectName71 = VehicleIn-TransitTransferReceiving
+		SccLocalPath71 = VehicleIn-TransitTransferReceiving
+		SccProjectUniqueName72 = VehicleCountEntryDetail\\VehicleCountEntryDetail.csproj
+		SccProjectTopLevelParentUniqueName72 = GSC.Rover.DMS.sln
+		SccProjectName72 = VehicleCountEntryDetail
+		SccLocalPath72 = VehicleCountEntryDetail
+		SccProjectUniqueName73 = VehicleCountEntryDetailUnitTests\\VehicleCountEntryDetailUnitTests.csproj
+		SccProjectTopLevelParentUniqueName73 = GSC.Rover.DMS.sln
+		SccProjectName73 = VehicleCountEntryDetailUnitTests
+		SccLocalPath73 = VehicleCountEntryDetailUnitTests
+		SccProjectUniqueName74 = VehicleCountEntry\\VehicleCountEntry.csproj
+		SccProjectTopLevelParentUniqueName74 = GSC.Rover.DMS.sln
+		SccProjectName74 = VehicleCountEntry
+		SccLocalPath74 = VehicleCountEntry
+		SccProjectUniqueName75 = VehicleCountEntryUnitTests\\VehicleCountEntryUnitTests.csproj
+		SccProjectTopLevelParentUniqueName75 = GSC.Rover.DMS.sln
+		SccProjectName75 = VehicleCountEntryUnitTests
+		SccLocalPath75 = VehicleCountEntryUnitTests
+		SccProjectUniqueName76 = VehicleAccessory\\VehicleAccessory.csproj
+		SccProjectTopLevelParentUniqueName76 = GSC.Rover.DMS.sln
+		SccProjectName76 = VehicleAccessory
+		SccLocalPath76 = VehicleAccessory
+		SccProjectUniqueName77 = VehicleCabChassis\\VehicleCabChassis.csproj
+		SccProjectTopLevelParentUniqueName77 = GSC.Rover.DMS.sln
+		SccProjectName77 = VehicleCabChassis
+		SccLocalPath77 = VehicleCabChassis
+		SccProjectUniqueName78 = QuoteCabChassis\\QuoteCabChassis.csproj
+		SccProjectTopLevelParentUniqueName78 = GSC.Rover.DMS.sln
+		SccProjectName78 = QuoteCabChassis
+		SccLocalPath78 = QuoteCabChassis
+		SccProjectUniqueName79 = QuoteAccessory\\QuoteAccessory.csproj
+		SccProjectTopLevelParentUniqueName79 = GSC.Rover.DMS.sln
+		SccProjectName79 = QuoteAccessory
+		SccLocalPath79 = QuoteAccessory
+		SccProjectUniqueName80 = Account\\Account.csproj
+		SccProjectTopLevelParentUniqueName80 = GSC.Rover.DMS.sln
+		SccProjectName80 = Account
+		SccLocalPath80 = Account
+		SccProjectUniqueName81 = CashReceipt\\CashReceipt.csproj
+		SccProjectTopLevelParentUniqueName81 = GSC.Rover.DMS.sln
+		SccProjectName81 = CashReceipt
+		SccLocalPath81 = CashReceipt
+		SccProjectUniqueName82 = PostDeliveryAdminSetup\\PostDeliveryAdminSetup.csproj
+		SccProjectTopLevelParentUniqueName82 = GSC.Rover.DMS.sln
+		SccProjectName82 = PostDeliveryAdminSetup
+		SccLocalPath82 = PostDeliveryAdminSetup
+		SccProjectUniqueName83 = Contact\\Contact.csproj
+		SccProjectTopLevelParentUniqueName83 = GSC.Rover.DMS.sln
+		SccProjectName83 = Contact
+		SccLocalPath83 = Contact
+		SccProjectUniqueName84 = RequirementChecklist\\RequirementChecklist.csproj
+		SccProjectTopLevelParentUniqueName84 = GSC.Rover.DMS.sln
+		SccProjectName84 = RequirementChecklist
+		SccLocalPath84 = RequirementChecklist
+		SccProjectUniqueName85 = InviteUnitTests\\InvitationUnitTests.csproj
+		SccProjectTopLevelParentUniqueName85 = GSC.Rover.DMS.sln
+		SccProjectName85 = InviteUnitTests
+		SccLocalPath85 = InviteUnitTests
+		SccProjectUniqueName86 = Insurance\\InsuranceCoverage.csproj
+		SccProjectTopLevelParentUniqueName86 = GSC.Rover.DMS.sln
+		SccProjectName86 = Insurance
+		SccLocalPath86 = Insurance
+		SccProjectUniqueName87 = ChargesItem\\ChargesItem.csproj
+		SccProjectTopLevelParentUniqueName87 = GSC.Rover.DMS.sln
+		SccProjectName87 = ChargesItem
+		SccLocalPath87 = ChargesItem
+		SccProjectUniqueName88 = TransactedVehicle\\TransactedVehicle.csproj
+		SccProjectTopLevelParentUniqueName88 = GSC.Rover.DMS.sln
+		SccProjectName88 = TransactedVehicle
+		SccLocalPath88 = TransactedVehicle
+		SccProjectUniqueName89 = InventoryMovementHandler\\InventoryMovement.csproj
+		SccProjectTopLevelParentUniqueName89 = GSC.Rover.DMS.sln
+		SccProjectName89 = InventoryMovementHandler
+		SccLocalPath89 = InventoryMovementHandler
+		SccProjectUniqueName90 = PriceList\\PriceList.csproj
+		SccProjectTopLevelParentUniqueName90 = GSC.Rover.DMS.sln
+		SccProjectName90 = PriceList
+		SccLocalPath90 = PriceList
+		SccProjectUniqueName91 = Invitation\\Invitation.csproj
+		SccProjectTopLevelParentUniqueName91 = GSC.Rover.DMS.sln
+		SccProjectName91 = Invitation
+		SccLocalPath91 = Invitation
+		SccProjectUniqueName92 = GVDReport\\GVDReport.csproj
+		SccProjectTopLevelParentUniqueName92 = GSC.Rover.DMS.sln
+		SccProjectName92 = GVDReport
+		SccLocalPath92 = GVDReport
+		SccProjectUniqueName93 = Invitation\\Invitation.csproj
+		SccProjectTopLevelParentUniqueName93 = GSC.Rover.DMS.sln
+		SccProjectName93 = Invitation
+		SccLocalPath93 = Invitation
+		SccProjectUniqueName94 = TaxMaintenance\\TaxMaintenance.csproj
+		SccProjectTopLevelParentUniqueName94 = GSC.Rover.DMS.sln
+		SccProjectName94 = TaxMaintenance
+		SccLocalPath94 = TaxMaintenance
+		SccProjectUniqueName95 = ApproverSetup\\ApproverSetup.csproj
+		SccProjectTopLevelParentUniqueName95 = GSC.Rover.DMS.sln
+		SccProjectName95 = ApproverSetup
+		SccLocalPath95 = ApproverSetup
+	EndGlobalSection
+EndGlobal

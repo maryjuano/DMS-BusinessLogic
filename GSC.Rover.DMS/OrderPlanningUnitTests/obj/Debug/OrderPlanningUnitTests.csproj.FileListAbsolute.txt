@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\OrderPlanningUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\OrderPlanningUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.OrderPlanning.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.OrderPlanning.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\obj\Debug\OrderPlanningUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\obj\Debug\OrderPlanningUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\OrderPlanningUnitTests\obj\Debug\OrderPlanningUnitTests.pdb

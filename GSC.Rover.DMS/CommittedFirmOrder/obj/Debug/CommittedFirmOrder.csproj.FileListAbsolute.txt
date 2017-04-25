@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\bin\Debug\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrder.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\bin\Debug\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrder.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\obj\Debug\CommittedFirmOrder.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\obj\Debug\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrder.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrder\obj\Debug\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrder.pdb

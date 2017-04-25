@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\bin\Release\GSC.Rover.DMS.BusinessLogic.ChargesItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\bin\Release\GSC.Rover.DMS.BusinessLogic.ChargesItem.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\obj\Release\GSC.Rover.DMS.BusinessLogic.ChargesItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\obj\Release\GSC.Rover.DMS.BusinessLogic.ChargesItem.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ChargesItem\obj\Release\ChargesItem.csprojResolveAssemblyReference.cache

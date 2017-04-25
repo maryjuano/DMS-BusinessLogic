@@ -1,0 +1,13 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\InvoiceUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\InvoiceUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\obj\Debug\InvoiceUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\obj\Debug\InvoiceUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InvoiceUnitTests\obj\Debug\InvoiceUnitTests.pdb

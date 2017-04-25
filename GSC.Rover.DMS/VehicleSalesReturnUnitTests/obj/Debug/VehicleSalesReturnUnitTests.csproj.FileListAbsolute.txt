@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\VehicleSalesReturnUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\VehicleSalesReturnUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleSalesReturn.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleSalesReturn.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\obj\Debug\VehicleSalesReturnUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\obj\Debug\VehicleSalesReturnUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleSalesReturnUnitTests\obj\Debug\VehicleSalesReturnUnitTests.pdb

@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\GSC.Rover.DMS.BusinessLogic.RequirementChecklist.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\GSC.Rover.DMS.BusinessLogic.RequirementChecklist.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\obj\Debug\RequirementChecklist.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\obj\Debug\GSC.Rover.DMS.BusinessLogic.RequirementChecklist.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\RequirementChecklist\obj\Debug\GSC.Rover.DMS.BusinessLogic.RequirementChecklist.pdb

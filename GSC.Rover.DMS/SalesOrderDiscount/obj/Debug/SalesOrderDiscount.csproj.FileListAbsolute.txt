@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderDiscount.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderDiscount.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\obj\Debug\SalesOrderDiscount.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\obj\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderDiscount.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\obj\Debug\GSC.Rover.DMS.BusinessLogic.SalesOrderDiscount.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\Microsoft.Xrm.Client.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderDiscount\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml

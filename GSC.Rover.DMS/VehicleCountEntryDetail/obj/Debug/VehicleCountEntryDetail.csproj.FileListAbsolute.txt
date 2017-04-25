@@ -1,0 +1,7 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleCountEntryDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleCountEntryDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\obj\Debug\GSC.Rover.DMS.BusinessLogic.VehicleCountEntryDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetail\obj\Debug\GSC.Rover.DMS.BusinessLogic.VehicleCountEntryDetail.pdb

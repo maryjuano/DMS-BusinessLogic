@@ -1,0 +1,7 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\obj\Debug\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReceivingTransactionDetail\obj\Debug\GSC.Rover.DMS.BusinessLogic.ReceivingTransactionDetail.pdb

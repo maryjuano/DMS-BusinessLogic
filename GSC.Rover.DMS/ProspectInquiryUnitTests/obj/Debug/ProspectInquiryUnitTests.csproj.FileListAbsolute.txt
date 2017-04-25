@@ -1,0 +1,1 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectInquiryUnitTests\obj\Debug\ProspectInquiryUnitTests.csprojResolveAssemblyReference.cache

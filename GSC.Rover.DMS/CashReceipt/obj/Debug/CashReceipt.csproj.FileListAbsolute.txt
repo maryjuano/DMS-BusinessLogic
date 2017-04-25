@@ -1,0 +1,11 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\obj\Debug\CashReceipt.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.CashReceipt.dll.config
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.CashReceipt.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.CashReceipt.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesDocument.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesDocument.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\obj\Debug\GSC.Rover.DMS.BusinessLogic.CashReceipt.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CashReceipt\obj\Debug\GSC.Rover.DMS.BusinessLogic.CashReceipt.pdb

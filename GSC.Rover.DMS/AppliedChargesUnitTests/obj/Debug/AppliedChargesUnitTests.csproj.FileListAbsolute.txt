@@ -1,0 +1,16 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\AppliedChargesUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\AppliedChargesUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.AppliedCharges.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.AppliedCharges.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Microsoft.Xrm.Client.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\obj\Debug\AppliedChargesUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\obj\Debug\AppliedChargesUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedChargesUnitTests\obj\Debug\AppliedChargesUnitTests.pdb

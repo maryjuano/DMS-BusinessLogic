@@ -1,0 +1,11 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\QuoteProductUnitTest.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\QuoteProductUnitTest.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\GSC.Rover.DMS.BusinessLogic.QuoteProduct.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\GSC.Rover.DMS.BusinessLogic.QuoteProduct.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\bin\Release\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\obj\Release\QuoteProductUnitTest.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\obj\Release\QuoteProductUnitTest.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProductUnitTest\obj\Release\QuoteProductUnitTest.pdb

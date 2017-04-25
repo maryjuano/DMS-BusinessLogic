@@ -1,0 +1,11 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\obj\Debug\QuoteCharge.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.QuoteCharge.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.QuoteCharge.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.Quote.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Debug\GSC.Rover.DMS.BusinessLogic.Quote.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\obj\Debug\GSC.Rover.DMS.BusinessLogic.QuoteCharge.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\obj\Debug\GSC.Rover.DMS.BusinessLogic.QuoteCharge.pdb

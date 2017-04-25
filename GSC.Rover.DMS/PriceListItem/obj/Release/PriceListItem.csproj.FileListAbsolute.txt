@@ -1,0 +1,15 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Portal.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Client.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\AntiXssLibrary.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Portal.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Client.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\bin\Release\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\obj\Release\PriceListItem.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\obj\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\PriceListItem\obj\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.pdb

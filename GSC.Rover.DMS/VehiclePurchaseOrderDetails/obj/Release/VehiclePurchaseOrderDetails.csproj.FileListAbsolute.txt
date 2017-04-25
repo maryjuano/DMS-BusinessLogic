@@ -1,0 +1,13 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.VehiclePurchaseOrderDetails.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.VehiclePurchaseOrderDetails.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceList.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceList.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\obj\Release\VehiclePurchaseOrderDetails.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\obj\Release\GSC.Rover.DMS.BusinessLogic.VehiclePurchaseOrderDetails.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehiclePurchaseOrderDetails\obj\Release\GSC.Rover.DMS.BusinessLogic.VehiclePurchaseOrderDetails.pdb

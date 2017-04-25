@@ -1,0 +1,7 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Release\GSC.Rover.DMS.BusinessLogic.VehicleClaim.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Release\GSC.Rover.DMS.BusinessLogic.VehicleClaim.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\obj\Release\GSC.Rover.DMS.BusinessLogic.VehicleClaim.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleClaim\obj\Release\GSC.Rover.DMS.BusinessLogic.VehicleClaim.pdb

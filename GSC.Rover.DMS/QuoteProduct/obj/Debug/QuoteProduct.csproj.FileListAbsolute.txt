@@ -1,0 +1,5 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProduct\bin\Debug\GSC.Rover.DMS.BusinessLogic.QuoteProduct.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProduct\bin\Debug\GSC.Rover.DMS.BusinessLogic.QuoteProduct.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProduct\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProduct\obj\Debug\GSC.Rover.DMS.BusinessLogic.QuoteProduct.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteProduct\obj\Debug\GSC.Rover.DMS.BusinessLogic.QuoteProduct.pdb

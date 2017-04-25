@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\bin\Release\ReturnTransactionDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\bin\Release\ReturnTransactionDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\obj\Release\ReturnTransactionDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\obj\Release\ReturnTransactionDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ReturnTransactionDetail\obj\Release\ReturnTransactionDetail.csprojResolveAssemblyReference.cache

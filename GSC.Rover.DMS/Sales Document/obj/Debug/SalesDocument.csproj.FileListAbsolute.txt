@@ -1,0 +1,7 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesDocument.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\bin\Debug\GSC.Rover.DMS.BusinessLogic.SalesDocument.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\obj\Debug\GSC.Rover.DMS.BusinessLogic.SalesDocument.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Sales Document\obj\Debug\GSC.Rover.DMS.BusinessLogic.SalesDocument.pdb

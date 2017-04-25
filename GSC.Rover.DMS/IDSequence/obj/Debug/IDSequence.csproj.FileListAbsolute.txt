@@ -1,0 +1,9 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\bin\Debug\GSC.Rover.DMS.BusinessLogic.IDSequence.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\bin\Debug\GSC.Rover.DMS.BusinessLogic.IDSequence.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\obj\Debug\IDSequence.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\obj\Debug\GSC.Rover.DMS.BusinessLogic.IDSequence.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\obj\Debug\GSC.Rover.DMS.BusinessLogic.IDSequence.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\IDSequence\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb

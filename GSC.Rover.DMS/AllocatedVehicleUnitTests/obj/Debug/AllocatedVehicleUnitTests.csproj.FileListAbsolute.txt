@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\AllocatedVehicleUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\AllocatedVehicleUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.AllocatedVehicle.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.AllocatedVehicle.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\obj\Debug\AllocatedVehicleUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\obj\Debug\AllocatedVehicleUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AllocatedVehicleUnitTests\obj\Debug\AllocatedVehicleUnitTests.pdb

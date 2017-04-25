@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\bin\Debug\GSC.Rover.DMS.BusinessLogic.Prospect.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\bin\Debug\GSC.Rover.DMS.BusinessLogic.Prospect.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\obj\Debug\Prospect.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\obj\Debug\GSC.Rover.DMS.BusinessLogic.Prospect.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Prospect\obj\Debug\GSC.Rover.DMS.BusinessLogic.Prospect.pdb

@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\AppliedPriceListUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\AppliedPriceListUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.AppliedPriceList.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.AppliedPriceList.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\obj\Debug\AppliedPriceListUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\obj\Debug\AppliedPriceListUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\AppliedPriceListUnitTests\obj\Debug\AppliedPriceListUnitTests.pdb

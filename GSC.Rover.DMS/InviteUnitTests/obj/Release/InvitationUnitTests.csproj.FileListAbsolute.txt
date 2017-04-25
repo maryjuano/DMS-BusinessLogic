@@ -1,0 +1,13 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\obj\Release\InvitationUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\InviteUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\InviteUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Invitation.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Invitation.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\obj\Release\InviteUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\obj\Release\InviteUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\InviteUnitTests\bin\Release\Microsoft.Crm.Sdk.Proxy.dll

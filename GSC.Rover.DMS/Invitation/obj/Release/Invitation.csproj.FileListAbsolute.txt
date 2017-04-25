@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\bin\Release\GSC.Rover.DMS.BusinessLogic.Invitation.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\bin\Release\GSC.Rover.DMS.BusinessLogic.Invitation.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\obj\Release\Invitation.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\obj\Release\GSC.Rover.DMS.BusinessLogic.Invitation.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invitation\obj\Release\GSC.Rover.DMS.BusinessLogic.Invitation.pdb

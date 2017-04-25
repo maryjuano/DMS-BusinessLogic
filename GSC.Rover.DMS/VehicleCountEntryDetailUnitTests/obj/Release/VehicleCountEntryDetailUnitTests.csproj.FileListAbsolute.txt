@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\VehicleCountEntryDetailUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\VehicleCountEntryDetailUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.VehicleCountEntryDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.VehicleCountEntryDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\obj\Release\VehicleCountEntryDetailUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\obj\Release\VehicleCountEntryDetailUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\obj\Release\VehicleCountEntryDetailUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountEntryDetailUnitTests\bin\Release\Moq.xml

@@ -1,0 +1,15 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.QuoteCharge.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.QuoteCharge.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.Quote.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceList.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.Quote.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceList.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\bin\Release\GSC.Rover.DMS.BusinessLogic.PriceListItem.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\obj\Release\QuoteCharge.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\obj\Release\GSC.Rover.DMS.BusinessLogic.QuoteCharge.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\QuoteCharge\obj\Release\GSC.Rover.DMS.BusinessLogic.QuoteCharge.pdb

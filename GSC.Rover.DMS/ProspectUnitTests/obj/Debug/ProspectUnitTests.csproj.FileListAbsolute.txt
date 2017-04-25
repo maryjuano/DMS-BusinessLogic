@@ -1,0 +1,13 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\ProspectUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\ProspectUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Prospect.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Prospect.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\obj\Debug\ProspectUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\obj\Debug\ProspectUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\ProspectUnitTests\obj\Debug\ProspectUnitTests.pdb

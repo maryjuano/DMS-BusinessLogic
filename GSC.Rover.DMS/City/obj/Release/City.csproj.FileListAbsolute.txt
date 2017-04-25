@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\bin\Release\GSC.Rover.DMS.BusinessLogic.City.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\bin\Release\GSC.Rover.DMS.BusinessLogic.City.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\obj\Release\City.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\obj\Release\GSC.Rover.DMS.BusinessLogic.City.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\City\obj\Release\GSC.Rover.DMS.BusinessLogic.City.pdb

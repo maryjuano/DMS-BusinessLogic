@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\obj\Release\CommittedFirmOrderUnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\CommittedFirmOrderUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\CommittedFirmOrderUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrder.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrder.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\obj\Release\CommittedFirmOrderUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\obj\Release\CommittedFirmOrderUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderUnitTests\bin\Release\Moq.xml

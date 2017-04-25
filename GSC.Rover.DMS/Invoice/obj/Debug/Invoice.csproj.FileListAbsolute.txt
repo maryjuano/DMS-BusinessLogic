@@ -1,0 +1,10 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\obj\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Invoice\obj\Debug\GSC.Rover.DMS.BusinessLogic.Invoice.pdb

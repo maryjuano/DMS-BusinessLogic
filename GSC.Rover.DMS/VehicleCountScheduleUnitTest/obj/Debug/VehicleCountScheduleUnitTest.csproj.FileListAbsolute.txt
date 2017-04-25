@@ -1,0 +1,12 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\VehicleCountScheduleUnitTest.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\VehicleCountScheduleUnitTest.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleCountSchedule.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\GSC.Rover.DMS.BusinessLogic.VehicleCountSchedule.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\obj\Debug\VehicleCountScheduleUnitTest.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\obj\Debug\VehicleCountScheduleUnitTest.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\obj\Debug\VehicleCountScheduleUnitTest.pdb

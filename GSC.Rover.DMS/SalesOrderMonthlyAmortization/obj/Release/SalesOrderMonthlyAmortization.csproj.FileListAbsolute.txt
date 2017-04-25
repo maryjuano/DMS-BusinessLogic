@@ -1,0 +1,9 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\bin\Release\GSC.Rover.DMS.BusinessLogic.SalesOrderMonthlyAmortization.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\bin\Release\GSC.Rover.DMS.BusinessLogic.SalesOrderMonthlyAmortization.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\obj\Release\GSC.Rover.DMS.BusinessLogic.SalesOrderMonthlyAmortization.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\obj\Release\GSC.Rover.DMS.BusinessLogic.SalesOrderMonthlyAmortization.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\obj\Release\SalesOrderMonthlyAmortization.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\SalesOrderMonthlyAmortization\bin\Release\Microsoft.Crm.Sdk.Proxy.dll

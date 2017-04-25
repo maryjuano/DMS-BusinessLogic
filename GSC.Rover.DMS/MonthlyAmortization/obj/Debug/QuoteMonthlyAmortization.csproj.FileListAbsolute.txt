@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\bin\Debug\GSC.Rover.DMS.BusinessLogic.QuoteMonthlyAmortization.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\bin\Debug\GSC.Rover.DMS.BusinessLogic.QuoteMonthlyAmortization.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\obj\Debug\QuoteMonthlyAmortization.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\obj\Debug\GSC.Rover.DMS.BusinessLogic.QuoteMonthlyAmortization.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\MonthlyAmortization\obj\Debug\GSC.Rover.DMS.BusinessLogic.QuoteMonthlyAmortization.pdb

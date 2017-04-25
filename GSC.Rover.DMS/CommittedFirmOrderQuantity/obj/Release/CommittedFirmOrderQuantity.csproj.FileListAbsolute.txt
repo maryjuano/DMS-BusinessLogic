@@ -1,0 +1,10 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrderQuantity.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrderQuantity.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrderQuantityDetail.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\bin\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrderQuantityDetail.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\obj\Release\CommittedFirmOrderQuantity.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\obj\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrderQuantity.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommittedFirmOrderQuantity\obj\Release\GSC.Rover.DMS.BusinessLogic.CommittedFirmOrderQuantity.pdb

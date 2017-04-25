@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\bin\Release\GSC.Rover.DMS.BusinessLogic.VehicleCabChassis.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\bin\Release\GSC.Rover.DMS.BusinessLogic.VehicleCabChassis.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\obj\Release\GSC.Rover.DMS.BusinessLogic.VehicleCabChassis.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\obj\Release\GSC.Rover.DMS.BusinessLogic.VehicleCabChassis.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\VehicleCabChassis\obj\Release\VehicleCabChassis.csprojResolveAssemblyReference.cache

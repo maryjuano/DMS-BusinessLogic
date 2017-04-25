@@ -1,0 +1,8 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\bin\Release\GSC.Rover.DMS.BusinessLogic.Insurance.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\bin\Release\GSC.Rover.DMS.BusinessLogic.Insurance.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\bin\Release\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\obj\Release\GSC.Rover.DMS.BusinessLogic.Insurance.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\obj\Release\GSC.Rover.DMS.BusinessLogic.Insurance.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Insurance\obj\Release\InsuranceCoverage.csprojResolveAssemblyReference.cache

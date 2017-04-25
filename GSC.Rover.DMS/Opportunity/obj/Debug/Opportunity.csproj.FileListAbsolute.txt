@@ -1,0 +1,16 @@
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\GSC.Rover.DMS.BusinessLogic.Opportunity.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\GSC.Rover.DMS.BusinessLogic.Opportunity.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\AntiXssLibrary.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Client.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\obj\Debug\Opportunity.csprojResolveAssemblyReference.cache
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\obj\Debug\GSC.Rover.DMS.BusinessLogic.Opportunity.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\Opportunity\obj\Debug\GSC.Rover.DMS.BusinessLogic.Opportunity.pdb

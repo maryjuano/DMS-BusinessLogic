@@ -1,0 +1,110 @@
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.pdb
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.csprojResolveAssemblyReference.cache
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.pdb
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll.config
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\AntiXSSLibrary.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Xrm.Framework.Test.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.exe
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.xml
+C:\Product Development\DMS (MMPC)\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll.config
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\AntiXSSLibrary.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Xrm.Framework.Test.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.exe
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.xml
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.csprojResolveAssemblyReference.cache
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll.config
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.pdb
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\AntiXSSLibrary.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Xrm.Framework.Test.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.exe
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.xml
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.xml
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.xml
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.csprojResolveAssemblyReference.cache
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.dll
+C:\Product Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.pdb
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll.config
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CommonUnitTests.pdb
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\AntiXSSLibrary.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Client.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Xrm.Framework.Test.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.exe
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.ServiceBus.xml
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Portal.xml
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\Moq.xml
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\CrmSvcUtil.xml
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.csprojResolveAssemblyReference.cache
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.dll
+D:\DMS\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\obj\Debug\CommonUnitTests.pdb
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.dll
+C:\Development\Project Rover\Main\GSC.Rover.DMS\CommonUnitTests\bin\Debug\GSC.Rover.DMS.BusinessLogic.Common.pdb
